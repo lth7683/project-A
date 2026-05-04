@@ -1,0 +1,51 @@
+{
+  "title": "뇌졸중 FAST 경고 신호",
+  "slug": "stroke-fast-warning",
+  "language": "ko",
+  "target_duration_sec": 25,
+  "audience": "Korean health Shorts viewers, adults and family caregivers",
+  "voice_id": "LS3HmRGCXV8wxCAhUbTt",
+  "status": "rendered",
+  "duplicate_check": {
+    "date": "2026-05-01",
+    "command": "topic_audit.py --root .",
+    "result": "0 existing Shorts projects found"
+  },
+  "sources": [
+    {
+      "title": "Mayo Clinic - Stroke: First aid",
+      "url": "https://www.mayoclinic.org/first-aid/first-aid-stroke/basics/art-20056602"
+    },
+    {
+      "title": "NIH MedlinePlus Magazine - FAST: How to spot a stroke and know when to call 911",
+      "url": "https://magazine.medlineplus.gov/multimedia/fast-how-to-spot-a-stroke-and-know-when-to-call-911"
+    },
+    {
+      "title": "American Stroke Association - BE-FAST Infographic",
+      "url": "https://www.stroke.org/en/help-and-support/resource-library/fast-materials/be-fast-infographic"
+    }
+  ],
+  "tts": {
+    "preferred_provider": "elevenlabs",
+    "fallback_provider": "windows-sapi",
+    "fallback_voice": "Microsoft Heami Desktop",
+    "actual_provider": "elevenlabs",
+    "actual_voice_id": "LS3HmRGCXV8wxCAhUbTt",
+    "speed_adjusted": true,
+    "audio": "assets/audio/narration-elevenlabs-timestamped.mp3",
+    "source_audio": "assets/audio/narration-elevenlabs.mp3"
+  },
+  "captions": "renders/captions-aligned.ass",
+  "final_render": "renders/final-elevenlabs-aligned.mp4",
+  "viewer": "site/index.html",
+  "render": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "render_notes": {
+    "sync": "captions and cuts generated from ElevenLabs character timestamps",
+    "captions": "center-screen ASS subtitles",
+    "cuts": "timestamp-based scene changes with 0.25s crossfades"
+  }
+}

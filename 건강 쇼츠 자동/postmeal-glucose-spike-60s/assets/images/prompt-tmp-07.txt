@@ -1,0 +1,9 @@
+﻿Use case: photorealistic-natural
+Asset type: 9:16 health Shorts scene, scene 7 of a Korean health education video
+Primary request: A realistic Korean adult choosing a glass or bottle of water instead of a sweet drink at a cafe table, showing a simple beverage swap for blood sugar control.
+Scene/backdrop: modern Korean cafe table, water and colorful sweet drink both visible.
+Subject: clearly visible Korean adult reaching for water, natural face and hand, lifestyle scene.
+Style/medium: photorealistic editorial lifestyle health education photo.
+Composition/framing: vertical 9:16, medium shot, person and drinks visible, leave clean center area for captions, no in-image text.
+Lighting/mood: natural cafe light, practical, positive, trustworthy.
+Constraints: no readable text, no logos, no watermark, no medical gore, no fake UI, no distorted hands or face.

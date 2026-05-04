@@ -1,0 +1,52 @@
+{
+  "title": "뇌졸중 예방 습관과 주의해야 할 신호",
+  "slug": "stroke-fast-warning",
+  "language": "ko",
+  "target_duration_sec": 34,
+  "audience": "Korean adults and family caregivers watching health-information Shorts",
+  "topic_duplicate_check": {
+    "checked_at": "2026-05-01",
+    "command": "topic_audit.py --root c:\\Users\\owner\\Desktop\\영빈\\마바사아",
+    "result": "0 previous health Shorts projects found; topic is not a duplicate."
+  },
+  "sources": [
+    {
+      "name": "CDC - Signs and Symptoms of Stroke",
+      "url": "https://www.cdc.gov/stroke/signs-symptoms/index.html",
+      "checked": "2026-05-01"
+    },
+    {
+      "name": "NHS - Symptoms of a stroke",
+      "url": "https://www.nhs.uk/conditions/stroke/symptoms/",
+      "checked": "2026-05-01"
+    },
+    {
+      "name": "대한민국 정책브리핑/질병관리청 - 뇌졸중 증상 즉시 119",
+      "url": "https://m.korea.kr/news/policyNewsView.do?newsId=148953347",
+      "checked": "2026-05-01"
+    }
+  ],
+  "voice_id": "YBRudLRm83BV5Mazcr42",
+  "status": "complete_voice_YBRudLRm83BV5Mazcr42",
+  "script_path": "script.md",
+  "scenes_path": "scenes.json",
+  "audio": {
+    "preferred": "assets/audio/narration-elevenlabs.mp3",
+    "fallback": "assets/audio/narration-sapi.wav",
+    "used": "assets/audio/narration-elevenlabs-segmented.mp3",
+    "provider": "elevenlabs",
+    "provisional": false,
+    "elevenlabs_voice_id": "YBRudLRm83BV5Mazcr42",
+    "sync_method": "Narration generated as 8 separate ElevenLabs segments; each scene duration is set from the matching audio segment duration; captions regenerated from scenes.json",
+    "elevenlabs_speed_adjustment": "none"
+  },
+  "captions": "assets/captions/captions-center.ass",
+  "final_render": "renders/final.mp4",
+  "viewer": "site/index.html",
+  "render": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  }
+}
+

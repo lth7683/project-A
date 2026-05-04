@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "start_sec": 0,
+    "duration_sec": 5,
+    "end_sec": 5,
+    "narration": "식후 졸림이 심하다면 그냥 피곤한 게 아닐 수 있습니다.",
+    "caption": "식후 졸림,\n그냥 피곤한 게 아닐 수 있어요",
+    "image": "assets/images/scene-01.png",
+    "visual": "Korean adult at a dining table after dinner, looking unusually sleepy while a subtle glucose curve motif rises in the background."
+  },
+  {
+    "id": 2,
+    "start_sec": 5,
+    "duration_sec": 5,
+    "end_sec": 10,
+    "narration": "밥을 먹고 혈당이 빠르게 오르면 몸은 더 무겁게 느껴질 수 있어요.",
+    "caption": "혈당이 빠르게 오르면\n몸이 무거워질 수 있습니다",
+    "image": "assets/images/scene-02.png",
+    "visual": "Close view of rice bowl and chopsticks with a clean red upward glucose line, premium health education style."
+  },
+  {
+    "id": 3,
+    "start_sec": 10,
+    "duration_sec": 5,
+    "end_sec": 15,
+    "narration": "오늘은 식후 혈당 스파이크를 줄이는 현실적인 순서만 기억하세요.",
+    "caption": "오늘 기억할 건\n현실적인 순서입니다",
+    "image": "assets/images/scene-03.png",
+    "visual": "Three-step meal planning scene on a Korean kitchen table, vegetables, protein, rice arranged clearly."
+  },
+  {
+    "id": 4,
+    "start_sec": 15,
+    "duration_sec": 5,
+    "end_sec": 20,
+    "narration": "첫째, 흰밥부터 크게 뜨지 마세요. 채소, 단백질, 탄수화물 순서로 천천히 가세요.",
+    "caption": "채소 → 단백질 → 밥\n이 순서로 천천히",
+    "image": "assets/images/scene-04.png",
+    "visual": "Healthy Korean meal tray showing vegetables first, fish or tofu second, rice last, without readable text."
+  },
+  {
+    "id": 5,
+    "start_sec": 20,
+    "duration_sec": 5,
+    "end_sec": 25,
+    "narration": "섬유질과 단백질은 탄수화물 흡수를 늦추는 데 도움이 됩니다.",
+    "caption": "섬유질과 단백질은\n흡수를 늦추는 데 도움",
+    "image": "assets/images/scene-05.png",
+    "visual": "Vegetables, beans, eggs, tofu, and fish on a balanced plate, calm clinical lighting."
+  },
+  {
+    "id": 6,
+    "start_sec": 25,
+    "duration_sec": 5,
+    "end_sec": 30,
+    "narration": "둘째, 국물과 소스에 숨어 있는 당을 조심하세요.",
+    "caption": "국물·소스 속\n숨은 당을 조심하세요",
+    "image": "assets/images/scene-06.png",
+    "visual": "Korean table with soup bowl and sauce dish highlighted as hidden sugar sources, no labels."
+  },
+  {
+    "id": 7,
+    "start_sec": 30,
+    "duration_sec": 5,
+    "end_sec": 35,
+    "narration": "달콤한 음료는 가장 먼저 줄이는 게 좋습니다.",
+    "caption": "달콤한 음료는\n가장 먼저 줄이기",
+    "image": "assets/images/scene-07.png",
+    "visual": "Hand choosing water instead of a sweet drink at a cafe table, Korean lifestyle scene."
+  },
+  {
+    "id": 8,
+    "start_sec": 35,
+    "duration_sec": 5,
+    "end_sec": 40,
+    "narration": "셋째, 식후 바로 눕지 말고 십 분만 가볍게 걸어보세요.",
+    "caption": "식후 바로 눕지 말고\n10분만 걷기",
+    "image": "assets/images/scene-08.png",
+    "visual": "Korean adult taking a gentle walk after dinner near an apartment path at evening."
+  },
+  {
+    "id": 9,
+    "start_sec": 40,
+    "duration_sec": 5,
+    "end_sec": 45,
+    "narration": "질병관리청과 당뇨병 단체들은 운동이 혈당 관리에 도움이 된다고 설명합니다.",
+    "caption": "가벼운 운동은\n혈당 관리에 도움",
+    "image": "assets/images/scene-09.png",
+    "visual": "Fitness tracker and glucose notebook beside walking shoes, trustworthy health education composition."
+  },
+  {
+    "id": 10,
+    "start_sec": 45,
+    "duration_sec": 5,
+    "end_sec": 50,
+    "narration": "넷째, 오래 앉아 있다면 서른 분마다 잠깐 일어나 움직이세요.",
+    "caption": "오래 앉아 있다면\n30분마다 잠깐 움직이기",
+    "image": "assets/images/scene-10.png",
+    "visual": "Office worker standing up from desk and stretching lightly, phone alarm nearby, Korean office."
+  },
+  {
+    "id": 11,
+    "start_sec": 50,
+    "duration_sec": 5,
+    "end_sec": 55,
+    "narration": "당뇨가 있거나 약을 먹는다면 식전과 식후 두 시간 혈당을 기록해 보세요.",
+    "caption": "당뇨·약 복용 중이면\n식전·식후 2시간 기록",
+    "image": "assets/images/scene-11.png",
+    "visual": "Hands writing glucose readings in a small notebook beside a glucose meter, no readable numbers."
+  },
+  {
+    "id": 12,
+    "start_sec": 55,
+    "duration_sec": 5,
+    "end_sec": 60,
+    "narration": "목표 수치는 사람마다 다르니 담당 의료진과 꼭 맞춰야 합니다.",
+    "caption": "목표 수치는 사람마다 달라요\n의료진과 꼭 맞추세요",
+    "image": "assets/images/scene-12.png",
+    "visual": "Korean patient consulting with a clinician in a bright clinic, friendly and professional."
+  }
+]

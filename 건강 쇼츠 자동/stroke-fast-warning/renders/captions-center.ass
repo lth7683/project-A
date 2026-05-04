@@ -1,0 +1,20 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Center,Malgun Gothic,92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,8,0,5,70,70,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.65,Center,,0,0,0,,이 증상 보이면\N절대 기다리지 마세요
+Dialogue: 0,0:00:02.65,0:00:05.35,Center,,0,0,0,,갑자기 한쪽 얼굴이\N처지거나
+Dialogue: 0,0:00:05.35,0:00:08.10,Center,,0,0,0,,팔 하나에 힘이 빠지면\N위험 신호일 수 있습니다
+Dialogue: 0,0:00:08.10,0:00:11.25,Center,,0,0,0,,말이 어눌해지고\N문장이 이상하게 나오면
+Dialogue: 0,0:00:11.25,0:00:13.85,Center,,0,0,0,,그 순간이\N중요합니다
+Dialogue: 0,0:00:13.85,0:00:17.45,Center,,0,0,0,,전문기관은\NFAST 확인을 말합니다
+Dialogue: 0,0:00:17.45,0:00:20.15,Center,,0,0,0,,얼굴\N팔\N말\N그리고 시간
+Dialogue: 0,0:00:20.15,0:00:24.72,Center,,0,0,0,,증상이 사라져도\N119 먼저\N고정 댓글 확인

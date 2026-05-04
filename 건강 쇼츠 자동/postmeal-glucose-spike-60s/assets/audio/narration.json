@@ -1,0 +1,7 @@
+﻿{
+    "status":  "complete",
+    "provider":  "windows-sapi",
+    "voice":  "Microsoft Heami Desktop",
+    "out":  "C:\\Users\\owner\\Desktop\\영빈\\건강 쇼츠 자동\\postmeal-glucose-spike-60s\\assets\\audio\\narration.wav",
+    "provisional":  true
+}

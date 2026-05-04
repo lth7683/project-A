@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>뇌졸중 FAST 경고 신호</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      font-family: "Malgun Gothic", "Apple SD Gothic Neo", system-ui, sans-serif;
+      background: #111613;
+      color: #f4f7f2;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background:
+        radial-gradient(circle at 20% 10%, rgba(193, 59, 43, 0.24), transparent 28%),
+        linear-gradient(135deg, #111613 0%, #1d2821 48%, #101311 100%);
+    }
+
+    main {
+      width: min(1120px, calc(100% - 32px));
+      min-height: 100vh;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: minmax(320px, 420px) 1fr;
+      gap: 32px;
+      align-items: center;
+      padding: 32px 0;
+    }
+
+    .player {
+      width: min(100%, 390px);
+      aspect-ratio: 9 / 16;
+      margin: 0 auto;
+      border-radius: 8px;
+      overflow: hidden;
+      background: #050605;
+      box-shadow: 0 24px 70px rgba(0, 0, 0, 0.48);
+    }
+
+    video {
+      width: 100%;
+      height: 100%;
+      display: block;
+      object-fit: cover;
+    }
+
+    .info {
+      max-width: 560px;
+    }
+
+    h1 {
+      margin: 0 0 16px;
+      font-size: clamp(34px, 5vw, 64px);
+      line-height: 1.02;
+      letter-spacing: 0;
+    }
+
+    p {
+      margin: 0 0 24px;
+      color: #dbe4d6;
+      font-size: 18px;
+      line-height: 1.65;
+    }
+
+    .meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 24px;
+    }
+
+    .pill {
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      border-radius: 999px;
+      padding: 8px 12px;
+      color: #edf4e8;
+      background: rgba(255, 255, 255, 0.07);
+      font-size: 14px;
+    }
+
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    a {
+      color: #101311;
+      background: #e9f35f;
+      border-radius: 6px;
+      padding: 12px 16px;
+      text-decoration: none;
+      font-weight: 700;
+    }
+
+    a.secondary {
+      color: #f4f7f2;
+      background: rgba(255, 255, 255, 0.12);
+      border: 1px solid rgba(255, 255, 255, 0.18);
+    }
+
+    @media (max-width: 840px) {
+      main {
+        grid-template-columns: 1fr;
+        align-items: start;
+      }
+
+      .info {
+        order: -1;
+      }
+
+      .player {
+        width: min(100%, 360px);
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="player" aria-label="쇼츠 영상 플레이어">
+      <video controls playsinline poster="../renders/preview-aligned-16s.png">
+        <source src="../renders/final-elevenlabs-aligned.mp4" type="video/mp4">
+      </video>
+    </section>
+    <section class="info">
+      <h1>뇌졸중 FAST 경고 신호</h1>
+      <p>ElevenLabs 음성으로 다시 렌더한 건강 쇼츠입니다. 업로드 전 최종 확인용으로 영상, 자막, 오디오를 한 화면에서 볼 수 있게 구성했습니다.</p>
+      <div class="meta">
+        <span class="pill">1080 x 1920</span>
+        <span class="pill">약 38.3초</span>
+        <span class="pill">ElevenLabs TTS</span>
+        <span class="pill">자막 포함</span>
+      </div>
+      <div class="links">
+        <a href="../renders/final-elevenlabs-aligned.mp4">MP4 열기</a>
+        <a class="secondary" href="../script.md">대본 보기</a>
+        <a class="secondary" href="../sources.md">근거 보기</a>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

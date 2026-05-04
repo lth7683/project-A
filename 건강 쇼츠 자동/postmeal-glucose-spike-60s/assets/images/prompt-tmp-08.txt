@@ -1,0 +1,9 @@
+﻿Use case: photorealistic-natural
+Asset type: 9:16 health Shorts scene, scene 8 of a Korean health education video
+Primary request: A realistic Korean adult taking a gentle walk after dinner near an apartment path in Korea, illustrating a 10-minute post-meal walk.
+Scene/backdrop: Korean apartment walkway at early evening, soft street lights, calm neighborhood.
+Subject: clearly visible Korean adult walking comfortably, casual clothes, relaxed posture.
+Style/medium: photorealistic lifestyle health education image.
+Composition/framing: vertical 9:16, full-body or three-quarter walking shot, subject centered with room for captions, no embedded text.
+Lighting/mood: soft evening light, calm, encouraging, trustworthy.
+Constraints: no readable text, no logos, no watermark, no medical gore, no fake UI, no distorted body or face.

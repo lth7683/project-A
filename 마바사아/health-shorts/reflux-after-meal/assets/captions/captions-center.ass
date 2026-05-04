@@ -1,0 +1,21 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: CenterCaption,Malgun Gothic,80,&H00FFFFFF,&H000000FF,&H00000000,&H99000000,1,0,0,0,100,100,0,0,1,4,0,5,70,70,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.32,CenterCaption,,0,0,0,,{\an5\pos(540,960)}밥 먹고 바로 눕는 습관\N속만 더부룩한 문제가 아닙니다
+Dialogue: 0,0:00:04.32,0:00:08.54,CenterCaption,,0,0,0,,{\an5\pos(540,960)}위산이 올라오면\N가슴 쓰림과 신물이 반복될 수 있어요
+Dialogue: 0,0:00:08.54,0:00:13.10,CenterCaption,,0,0,0,,{\an5\pos(540,960)}야식 먹고 눕는 습관\N증상을 키울 수 있습니다
+Dialogue: 0,0:00:13.10,0:00:18.11,CenterCaption,,0,0,0,,{\an5\pos(540,960)}식후 바로 눕지 말고\N2~3시간은 앉거나 가볍게 움직이기
+Dialogue: 0,0:00:18.11,0:00:23.92,CenterCaption,,0,0,0,,{\an5\pos(540,960)}기름진 음식, 매운 음식\N커피, 술은 증상을 키울 수 있어요
+Dialogue: 0,0:00:23.92,0:00:27.21,CenterCaption,,0,0,0,,{\an5\pos(540,960)}반복되는 음식은\N기록해두세요
+Dialogue: 0,0:00:27.21,0:00:32.69,CenterCaption,,0,0,0,,{\an5\pos(540,960)}삼키기 어렵거나 체중 감소\N통증이 계속되면 참지 마세요
+Dialogue: 0,0:00:32.69,0:00:37.34,CenterCaption,,0,0,0,,{\an5\pos(540,960)}습관은 줄이고\N반복되면 진료로 확인하세요

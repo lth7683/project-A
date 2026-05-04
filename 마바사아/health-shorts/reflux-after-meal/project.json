@@ -1,0 +1,59 @@
+﻿{
+    "title":  "식후 바로 눕는 습관과 역류성 식도염 예방",
+    "slug":  "reflux-after-meal",
+    "language":  "ko",
+    "target_duration_sec":  37,
+    "audience":  "Korean adults watching practical health-information Shorts",
+    "topic_duplicate_check":  {
+                                  "checked_at":  "2026-05-01",
+                                  "command":  "topic_audit.py --root health-shorts --candidate \"식후 바로 눕는 습관과 역류성 식도염 예방\" --fail-on-duplicate",
+                                  "result":  "no_duplicate_risk",
+                                  "threshold":  0.34,
+                                  "matches":  [
+
+                                              ]
+                              },
+    "sources":  [
+                    {
+                        "name":  "NIDDK - Treatment for GER \u0026 GERD",
+                        "url":  "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults/treatment",
+                        "checked":  "2026-05-01"
+                    },
+                    {
+                        "name":  "Mayo Clinic - GERD diagnosis and treatment",
+                        "url":  "https://www.mayoclinic.org/diseases-conditions/gerd/diagnosis-treatment/drc-20361959",
+                        "checked":  "2026-05-01"
+                    },
+                    {
+                        "name":  "NHS - Heartburn and acid reflux",
+                        "url":  "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/",
+                        "checked":  "2026-05-01"
+                    }
+                ],
+    "voice_id":  "YBRudLRm83BV5Mazcr42",
+    "status":  "complete_tts_pronunciation_normalized",
+    "script_path":  "script.md",
+    "scenes_path":  "scenes.json",
+    "audio":  {
+                  "used":  "assets/audio/narration-elevenlabs-segmented.mp3",
+                  "provider":  "elevenlabs",
+                  "provisional":  false,
+                  "elevenlabs_voice_id":  "YBRudLRm83BV5Mazcr42",
+                  "sync_method":  "Narration generated as separate ElevenLabs segments; scene durations and captions are recalculated from segment audio lengths."
+              },
+    "captions":  "assets/captions/captions-center.ass",
+    "final_render":  "renders/final.mp4",
+    "viewer":  "site/index.html",
+    "render":  {
+                   "width":  1080,
+                   "height":  1920,
+                   "fps":  30
+               },
+    "tts_pronunciation":  {
+                              "normalized_at":  "2026-05-01",
+                              "rule":  "TTS narration uses spoken Korean forms: 2~3시간 -\u003e 두세 시간, 119 -\u003e 일일구; captions may keep numerals.",
+                              "script":  "script.md",
+                              "narration":  "narration.md",
+                              "scenes":  "scenes.json"
+                          }
+}

@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>뇌졸중 예방 습관과 주의해야 할 신호</title>
+    <style>
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        background: #eef3ef;
+        color: #17211d;
+        font-family: "Segoe UI", "Malgun Gothic", system-ui, sans-serif;
+      }
+      main {
+        width: min(980px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 32px 0;
+        display: grid;
+        grid-template-columns: minmax(280px, 360px) 1fr;
+        gap: 28px;
+        align-items: start;
+      }
+      video {
+        width: 100%;
+        aspect-ratio: 9 / 16;
+        background: #101815;
+        box-shadow: 0 18px 45px rgba(20, 32, 27, 0.18);
+      }
+      h1 { margin: 0 0 14px; font-size: 30px; line-height: 1.15; }
+      p { color: #56635d; line-height: 1.65; }
+      a {
+        display: block;
+        margin: 10px 0;
+        color: #1f6f5b;
+        font-weight: 800;
+      }
+      @media (max-width: 760px) {
+        main { grid-template-columns: 1fr; }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <video controls playsinline src="../renders/final.mp4"></video>
+      <section>
+        <h1>뇌졸중 예방 습관과 주의해야 할 신호</h1>
+        <p>ElevenLabs 음성을 문장별로 생성하고 각 음성 길이에 맞춰 장면과 중앙 자막을 다시 맞춘 최종 렌더입니다.</p>
+        <a href="../renders/final.mp4">MP4 열기</a>
+        <a href="../script.md">대본 보기</a>
+        <a href="../sources.md">근거 자료 보기</a>
+      </section>
+    </main>
+  </body>
+</html>

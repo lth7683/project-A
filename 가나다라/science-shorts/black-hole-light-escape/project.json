@@ -1,0 +1,36 @@
+{
+  "title": "블랙홀은 왜 빛도 못 빠져나올까",
+  "slug": "black-hole-light-escape",
+  "language": "ko",
+  "target_duration_sec": 45,
+  "voice_id": "",
+  "status": "complete",
+  "topic": "블랙홀의 사건의 지평선과 탈출 속도",
+  "audience": "중고등학생도 이해할 수 있는 과학 쇼츠 시청자",
+  "audio": {
+    "provider": "elevenlabs",
+    "voice_id": "pb3lVZVjdFWbkhPKlelB",
+    "model": "eleven_multilingual_v2",
+    "path": "assets/audio/narration.mp3",
+    "duration_sec": 56.84,
+    "provisional": false,
+    "note": "ElevenLabs TTS regenerated with requested voice_id."
+  },
+  "output": {
+    "path": "renders/final.mp4",
+    "alternate_path": "renders/final-elevenlabs.mp4",
+    "duration_sec": 56.84,
+    "video": "h264 1080x1920",
+    "audio": "aac"
+  },
+  "source_urls": [
+    "https://science.nasa.gov/universe/black-holes/",
+    "https://www.nasa.gov/image-article/black-hole-friday/",
+    "https://imagine.gsfc.nasa.gov/science/objects/black_holes1.html"
+  ],
+  "render": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "title": "식후 혈당 스파이크 줄이는 1분 습관",
+  "slug": "postmeal-glucose-spike-60s",
+  "language": "ko",
+  "target_duration_sec": 60,
+  "audience": "Korean health Shorts viewers, adults interested in blood sugar control",
+  "voice_id": "YBRudLRm83BV5Mazcr42",
+  "status": "rendered",
+  "duplicate_check": {
+    "date": "2026-05-02",
+    "command": "python C:\\Users\\owner\\.codex\\skills\\health-shorts\\scripts\\topic_audit.py --root . --candidate \"식후 혈당 스파이크를 줄이는 1분 생활 습관\" --fail-on-duplicate",
+    "result": "passed; duplicate_risk=false; no matches"
+  },
+  "sources": [
+    {
+      "title": "CDC - Get Active",
+      "url": "https://www.cdc.gov/diabetes/living-with/physical-activity.html"
+    },
+    {
+      "title": "CDC - Manage Blood Sugar",
+      "url": "https://www.cdc.gov/diabetes/treatment/index.html"
+    },
+    {
+      "title": "American Diabetes Association - Breaking Sitting Streaks",
+      "url": "https://diabetes.org/health-wellness/fitness/break-sitting-streak"
+    },
+    {
+      "title": "Diabetes UK - Glycaemic index and diabetes",
+      "url": "https://www.diabetes.org.uk/living-with-diabetes/eating/carbohydrates-and-diabetes/glycaemic-index-and-diabetes"
+    }
+  ],
+  "tts": {
+    "preferred_provider": "elevenlabs",
+    "fallback_provider": "windows-sapi",
+    "actual_provider": "windows-sapi",
+    "actual_voice": "Microsoft Heami Desktop or first installed ko-KR SAPI voice",
+    "source_audio": "assets/audio/narration.wav",
+    "audio": "assets/audio/narration-final.wav",
+    "speed_adjusted": true,
+    "notes": "ELEVENLABS_API_KEY was not set during production, so Windows SAPI draft TTS was used and adjusted from 61.93 seconds to 60.00 seconds."
+  },
+  "captions": "assets/captions/captions-center.ass",
+  "final_render": "renders/final.mp4",
+  "viewer": "site/index.html",
+  "render": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "scene_count": 12,
+  "render_notes": {
+    "duration": "12 scenes x 5 seconds = 60 seconds",
+    "captions": "center-screen ASS captions through render_video.py",
+    "visuals": "project-bound 9:16 illustrated health scenes in assets/images; every scene includes at least one clearly visible Korean person",
+    "verified": {
+      "duration_sec": 60.0,
+      "width": 1080,
+      "height": 1920,
+      "frames": 1800
+    }
+  }
+}

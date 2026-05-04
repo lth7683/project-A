@@ -1,0 +1,9 @@
+﻿Use case: photorealistic-natural
+Asset type: 9:16 health Shorts scene, scene 5 of a Korean health education video
+Primary request: A realistic Korean adult holding or presenting a balanced plate with vegetables, beans, eggs, tofu, and fish, illustrating fiber and protein helping slow carbohydrate absorption.
+Scene/backdrop: clean kitchen or clinic nutrition counseling room.
+Subject: clearly visible Korean adult with natural expression, plate visible, realistic hands.
+Style/medium: photorealistic health education lifestyle photo.
+Composition/framing: vertical 9:16, medium shot, person centered with plate in foreground, leave clean caption space, no in-image text.
+Lighting/mood: bright, clean, calm, medically trustworthy.
+Constraints: no readable text, no logos, no watermark, no medical gore, no fake UI, no distorted hands or face, no generic object-only still life.

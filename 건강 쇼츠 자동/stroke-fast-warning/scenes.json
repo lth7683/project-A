@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "start_sec": 0.0,
+    "duration_sec": 2.8,
+    "end_sec": 2.8,
+    "narration": "이 증상 보이면 절대 기다리지 마세요.",
+    "caption": "이 증상 보이면\n절대 기다리지 마세요",
+    "image": "assets/images/scene-01.png",
+    "visual_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. A tense but realistic Korean household moment, middle-aged person suddenly stopping with alarmed family nearby, cinematic documentary photo style, close vertical framing, serious urgent mood, no gore, no readable text, no watermark."
+  },
+  {
+    "id": 2,
+    "start_sec": 2.8,
+    "duration_sec": 2.8,
+    "end_sec": 5.6,
+    "narration": "갑자기 한쪽 얼굴이 처지거나",
+    "caption": "갑자기\n한쪽 얼굴이 처지거나",
+    "image": "assets/images/scene-02.png",
+    "visual_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Respectful medical education visual of an older Korean adult looking in a mirror with subtle one-sided facial droop concern, realistic photo style, bathroom mirror composition, no shock imagery, no readable text, no watermark."
+  },
+  {
+    "id": 3,
+    "start_sec": 5.6,
+    "duration_sec": 3.0,
+    "end_sec": 8.6,
+    "narration": "팔 하나에 힘이 빠지면 위험 신호일 수 있습니다.",
+    "caption": "팔 하나에 힘이 빠지면\n위험 신호일 수 있습니다",
+    "image": "assets/images/scene-03.png",
+    "visual_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Korean adult trying to raise both arms while one arm drifts lower, family member watching with concern, realistic medical awareness photo, vertical centered composition, no readable text, no watermark."
+  },
+  {
+    "id": 4,
+    "start_sec": 8.6,
+    "duration_sec": 3.0,
+    "end_sec": 11.6,
+    "narration": "말이 어눌해지고 문장이 이상하게 나오면",
+    "caption": "말이 어눌해지고\n문장이 이상하게 나오면",
+    "image": "assets/images/scene-04.png",
+    "visual_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Realistic Korean family conversation at a kitchen table, one person appears confused while speaking and another listens with concern, subtle medical warning mood, no visible speech bubbles, no readable text, no watermark."
+  },
+  {
+    "id": 5,
+    "start_sec": 11.6,
+    "duration_sec": 2.6,
+    "end_sec": 14.2,
+    "narration": "그 순간이 중요합니다.",
+    "caption": "그 순간이\n중요합니다",
+    "image": "assets/images/scene-05.png",
+    "visual_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Close-up of a smartphone emergency call screen implied without readable numbers or text, hand hovering urgently, Korean home background, dramatic realistic lighting, no readable text, no watermark."
+  },
+  {
+    "id": 6,
+    "start_sec": 14.2,
+    "duration_sec": 3.2,
+    "end_sec": 17.4,
+    "narration": "메이요클리닉과 미국뇌졸중협회는 이걸 FAST로 확인하라고 말합니다.",
+    "caption": "전문기관은\nFAST 확인을 말합니다",
+    "image": "assets/images/scene-06.png",
+    "visual_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Clean modern medical office desk with a clinician pointing to a simple abstract four-step checklist card with blank icon blocks only, Korean audience-friendly realistic photo, no readable text, no logos, no watermark."
+  },
+  {
+    "id": 7,
+    "start_sec": 17.4,
+    "duration_sec": 3.0,
+    "end_sec": 20.4,
+    "narration": "얼굴. 팔. 말. 그리고 시간.",
+    "caption": "얼굴\n팔\n말\n그리고 시간",
+    "image": "assets/images/scene-07.png",
+    "visual_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Minimal medical awareness montage in one vertical frame: face silhouette, raised arms, speaking mouth icon, clock icon as clean 3D objects, no letters, no readable text, bright clinical background, no watermark."
+  },
+  {
+    "id": 8,
+    "start_sec": 20.4,
+    "duration_sec": 4.322,
+    "end_sec": 24.722,
+    "narration": "증상이 사라져도 그냥 넘기면 안 됩니다. 지금 바로 119에 전화하세요. 체크리스트는 고정 댓글에 남겨둘게요.",
+    "caption": "증상이 사라져도\n119 먼저\n고정 댓글 확인",
+    "image": "assets/images/scene-08.png",
+    "visual_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Korean emergency responders arriving at an apartment entrance with family member guiding them, realistic respectful scene, hopeful urgent tone, no patient distress close-up, no readable text, no watermark."
+  }
+]

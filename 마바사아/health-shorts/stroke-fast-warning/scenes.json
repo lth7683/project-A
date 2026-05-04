@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "start_sec": 0.0,
+    "duration_sec": 4.365,
+    "end_sec": 4.365,
+    "narration": "뇌졸중은 쓰러진 뒤가 아니라, 평소 혈압에서 시작됩니다.",
+    "caption": "뇌졸중은\n평소 혈압에서 시작됩니다",
+    "image": "assets/images/scene-01.png",
+    "visual": "Middle-aged Korean adult checking blood pressure at home, serious but calm prevention mood."
+  },
+  {
+    "id": 2,
+    "start_sec": 4.365,
+    "duration_sec": 5.294,
+    "end_sec": 9.66,
+    "narration": "짜게 먹는 습관은 줄이고, 채소와 생선, 견과류를 자주 챙기세요.",
+    "caption": "짜게 먹는 습관 줄이고\n채소, 생선, 견과류",
+    "image": "assets/images/scene-02.png",
+    "visual": "Healthy Korean meal with vegetables, grilled fish, nuts, and less salty side dishes."
+  },
+  {
+    "id": 3,
+    "start_sec": 9.66,
+    "duration_sec": 4.365,
+    "end_sec": 14.025,
+    "narration": "혈압, 혈당, 콜레스테롤은 숫자로 확인해야 합니다.",
+    "caption": "혈압, 혈당, 콜레스테롤\n숫자로 확인하세요",
+    "image": "assets/images/scene-03.png",
+    "visual": "Korean clinic checkup scene with doctor reviewing simple health numbers with patient."
+  },
+  {
+    "id": 4,
+    "start_sec": 14.025,
+    "duration_sec": 5.108,
+    "end_sec": 19.133,
+    "narration": "담배는 끊고, 술은 줄이고, 매일 30분 걷는 습관이 도움이 됩니다.",
+    "caption": "담배는 끊고 술은 줄이고\n매일 30분 걷기",
+    "image": "assets/images/scene-04.png",
+    "visual": "Korean adult walking in a park, no smoking and reduced alcohol implied through lifestyle objects."
+  },
+  {
+    "id": 5,
+    "start_sec": 19.133,
+    "duration_sec": 4.319,
+    "end_sec": 23.452,
+    "narration": "하지만 얼굴, 팔, 말이 갑자기 이상하면 음식으로 버티면 안 됩니다.",
+    "caption": "얼굴, 팔, 말이 갑자기 이상하면\n음식으로 버티면 안 됩니다",
+    "image": "assets/images/scene-05.png",
+    "visual": "Concerned Korean family recognizing sudden face, arm, speech warning signs at home."
+  },
+  {
+    "id": 6,
+    "start_sec": 23.452,
+    "duration_sec": 2.833,
+    "end_sec": 26.285,
+    "narration": "그때는 예방이 아니라 응급상황입니다.",
+    "caption": "그때는 예방이 아니라\n응급상황입니다",
+    "image": "assets/images/scene-06.png",
+    "visual": "Urgent but non-graphic medical emergency mood, family calling for help while patient is seated safely."
+  },
+  {
+    "id": 7,
+    "start_sec": 26.285,
+    "duration_sec": 3.947,
+    "end_sec": 30.232,
+    "narration": "평소엔 식단과 운동, 갑자기 이상하면 바로 도움 요청.",
+    "caption": "평소엔 식단과 운동\n갑자기 이상하면 도움 요청",
+    "image": "assets/images/scene-07.png",
+    "visual": "Split-feeling photoreal scene: healthy routine items and phone ready for urgent help, no readable text."
+  },
+  {
+    "id": 8,
+    "start_sec": 30.232,
+    "duration_sec": 3.622,
+    "end_sec": 33.855,
+    "narration": "이게 뇌졸중을 막는 가장 현실적인 체크리스트입니다.",
+    "caption": "뇌졸중 예방\n현실적인 체크리스트",
+    "image": "assets/images/scene-08.png",
+    "visual": "Korean adult placing a simple health checklist beside blood pressure monitor and healthy meal."
+  }
+]

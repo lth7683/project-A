@@ -1,0 +1,23 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Center,Malgun Gothic,72,&H00FFFFFF,&H000000FF,&H00111111,&H99000000,-1,0,0,0,100,100,0,0,1,5,1,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.00,Center,,0,0,0,,식후 졸림,\N그냥 피곤한 게 아닐 수 있어요
+Dialogue: 0,0:00:05.00,0:00:10.00,Center,,0,0,0,,혈당이 빠르게 오르면\N몸이 무거워질 수 있습니다
+Dialogue: 0,0:00:10.00,0:00:15.00,Center,,0,0,0,,오늘 기억할 건\N현실적인 순서입니다
+Dialogue: 0,0:00:15.00,0:00:20.00,Center,,0,0,0,,채소 → 단백질 → 밥\N이 순서로 천천히
+Dialogue: 0,0:00:20.00,0:00:25.00,Center,,0,0,0,,섬유질과 단백질은\N흡수를 늦추는 데 도움
+Dialogue: 0,0:00:25.00,0:00:30.00,Center,,0,0,0,,국물·소스 속\N숨은 당을 조심하세요
+Dialogue: 0,0:00:30.00,0:00:35.00,Center,,0,0,0,,달콤한 음료는\N가장 먼저 줄이기
+Dialogue: 0,0:00:35.00,0:00:40.00,Center,,0,0,0,,식후 바로 눕지 말고\N10분만 걷기
+Dialogue: 0,0:00:40.00,0:00:45.00,Center,,0,0,0,,가벼운 운동은\N혈당 관리에 도움
+Dialogue: 0,0:00:45.00,0:00:50.00,Center,,0,0,0,,오래 앉아 있다면\N30분마다 잠깐 움직이기
+Dialogue: 0,0:00:50.00,0:00:55.00,Center,,0,0,0,,당뇨·약 복용 중이면\N식전·식후 2시간 기록
+Dialogue: 0,0:00:55.00,0:01:00.00,Center,,0,0,0,,목표 수치는 사람마다 달라요\N의료진과 꼭 맞추세요

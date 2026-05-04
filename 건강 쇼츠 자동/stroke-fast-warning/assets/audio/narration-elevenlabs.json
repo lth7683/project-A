@@ -1,0 +1,6 @@
+{
+  "status": "complete",
+  "voice_id": "LS3HmRGCXV8wxCAhUbTt",
+  "model": "eleven_multilingual_v2",
+  "out": "stroke-fast-warning\\assets\\audio\\narration-elevenlabs.mp3"
+}

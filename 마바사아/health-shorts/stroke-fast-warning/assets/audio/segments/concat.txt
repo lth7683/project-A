@@ -1,0 +1,8 @@
+file 'C:/Users/owner/Desktop/??/????/health-shorts/stroke-fast-warning/assets/audio/segments/scene-01.mp3'
+file 'C:/Users/owner/Desktop/??/????/health-shorts/stroke-fast-warning/assets/audio/segments/scene-02.mp3'
+file 'C:/Users/owner/Desktop/??/????/health-shorts/stroke-fast-warning/assets/audio/segments/scene-03.mp3'
+file 'C:/Users/owner/Desktop/??/????/health-shorts/stroke-fast-warning/assets/audio/segments/scene-04.mp3'
+file 'C:/Users/owner/Desktop/??/????/health-shorts/stroke-fast-warning/assets/audio/segments/scene-05.mp3'
+file 'C:/Users/owner/Desktop/??/????/health-shorts/stroke-fast-warning/assets/audio/segments/scene-06.mp3'
+file 'C:/Users/owner/Desktop/??/????/health-shorts/stroke-fast-warning/assets/audio/segments/scene-07.mp3'
+file 'C:/Users/owner/Desktop/??/????/health-shorts/stroke-fast-warning/assets/audio/segments/scene-08.mp3'

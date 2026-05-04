@@ -1,0 +1,9 @@
+﻿Use case: photorealistic-natural
+Asset type: 9:16 health Shorts scene, scene 12 of a Korean health education video
+Primary request: A realistic Korean patient consulting with a clinician in a bright clinic, showing that personal glucose targets should be discussed with medical staff.
+Scene/backdrop: clean Korean clinic consultation room, desk, chart or tablet without readable text.
+Subject: clearly visible Korean patient and Korean clinician, friendly professional conversation, natural faces and hands.
+Style/medium: photorealistic medical lifestyle health education photo.
+Composition/framing: vertical 9:16, two-person medium shot, clinician and patient visible, room for centered captions, no embedded text.
+Lighting/mood: bright, reassuring, professional, trustworthy.
+Constraints: no readable text, no logos, no watermark, no medical gore, no fake UI, no distorted hands or face.

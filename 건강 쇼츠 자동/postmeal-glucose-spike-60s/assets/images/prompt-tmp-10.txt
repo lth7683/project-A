@@ -1,0 +1,9 @@
+﻿Use case: photorealistic-natural
+Asset type: 9:16 health Shorts scene, scene 10 of a Korean health education video
+Primary request: A realistic Korean office worker standing up from a desk and stretching lightly, illustrating breaking up long sitting every 30 minutes.
+Scene/backdrop: modern Korean office desk with laptop and phone alarm nearby, no readable screen text.
+Subject: clearly visible Korean adult office worker, standing and stretching gently, natural posture.
+Style/medium: photorealistic workplace health education image.
+Composition/framing: vertical 9:16, medium full-body shot, desk visible, room for captions, no embedded text.
+Lighting/mood: bright office light, practical, energetic but calm.
+Constraints: no readable text, no logos, no watermark, no fake UI, no medical gore, no distorted hands or face.

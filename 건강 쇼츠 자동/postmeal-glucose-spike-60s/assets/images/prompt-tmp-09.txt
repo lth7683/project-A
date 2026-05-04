@@ -1,0 +1,9 @@
+﻿Use case: photorealistic-natural
+Asset type: 9:16 health Shorts scene, scene 9 of a Korean health education video
+Primary request: A realistic Korean adult reviewing a fitness tracker and a glucose notebook beside walking shoes, showing that light exercise helps blood sugar management.
+Scene/backdrop: home entryway or table after a walk, walking shoes nearby, notebook and wearable device visible.
+Subject: clearly visible Korean adult looking at the tracker or notebook, natural hands.
+Style/medium: photorealistic editorial lifestyle health education image.
+Composition/framing: vertical 9:16, medium shot, person visible with tracker/notebook details, leave center space for captions, no readable numbers or text.
+Lighting/mood: clean, calm, evidence-based, trustworthy.
+Constraints: no readable text, no logos, no watermark, no fake UI, no medical gore, no distorted hands or face, avoid object-only frame.

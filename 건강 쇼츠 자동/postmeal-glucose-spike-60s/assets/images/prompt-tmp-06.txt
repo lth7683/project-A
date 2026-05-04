@@ -1,0 +1,9 @@
+﻿Use case: photorealistic-natural
+Asset type: 9:16 health Shorts scene, scene 6 of a Korean health education video
+Primary request: A realistic Korean adult looking carefully at soup and sauce dishes on a Korean table, suggesting hidden sugar in soup, sauces, and condiments.
+Scene/backdrop: Korean dining table with soup bowl, sauce dish, rice, and side dishes.
+Subject: clearly visible Korean adult leaning in thoughtfully, hand near sauce dish, natural face and hands.
+Style/medium: photorealistic editorial lifestyle health education image.
+Composition/framing: vertical 9:16, medium shot, person and soup/sauce visible, room for centered captions, no embedded text.
+Lighting/mood: calm caution, realistic dining-room light, trustworthy.
+Constraints: no readable text, no logos, no watermark, no medical gore, no fake UI, no distorted hands or face, avoid object-only table shot.

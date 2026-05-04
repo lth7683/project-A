@@ -1,0 +1,9 @@
+﻿Use case: photorealistic-natural
+Asset type: 9:16 health Shorts scene, scene 11 of a Korean health education video
+Primary request: A realistic Korean adult with diabetes or blood sugar concerns recording pre-meal and two-hour post-meal glucose readings in a notebook beside a glucose meter.
+Scene/backdrop: home table, glucose meter, notebook, pen, simple meal nearby.
+Subject: clearly visible Korean adult seated at the table, face partially or fully visible, writing naturally.
+Style/medium: photorealistic health education lifestyle photo.
+Composition/framing: vertical 9:16, medium close shot, person and notebook visible, no readable numbers or text, room for captions.
+Lighting/mood: calm, private, practical, trustworthy.
+Constraints: no readable text, no logos, no watermark, no blood, no needle close-up, no fake UI, no distorted hands or face.

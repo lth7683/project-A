@@ -1,0 +1,19 @@
+{
+  "title": "금속은 왜 같은 온도인데 더 차갑게 느껴질까?",
+  "slug": "why-metal-feels-cold",
+  "language": "ko",
+  "target_duration_sec": 45,
+  "voice_id": "7Nah3cbXKVmGX7gQUuwz",
+  "duplicate_check": {
+    "checked_before_script": true,
+    "method": "scripts/topic_audit.py --root .",
+    "existing_topic_count": 0,
+    "result": "No previous Shorts topics found in the workspace, so this topic is clear."
+  },
+  "status": "rendered_with_elevenlabs_voice",
+  "render": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  }
+}

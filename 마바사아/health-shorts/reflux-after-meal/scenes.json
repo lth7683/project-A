@@ -1,0 +1,82 @@
+﻿[
+    {
+        "id":  1,
+        "start_sec":  0,
+        "duration_sec":  4.319,
+        "end_sec":  4.319,
+        "narration":  "밥 먹고 바로 눕는 습관, 속만 더부룩한 문제가 아닐 수 있습니다.",
+        "caption":  "밥 먹고 바로 눕는 습관\n속만 더부룩한 문제가 아닙니다",
+        "image":  "assets/images/scene-01.png",
+        "visual":  "Korean adult about to lie on sofa right after dinner, mild discomfort."
+    },
+    {
+        "id":  2,
+        "start_sec":  4.319,
+        "duration_sec":  4.226,
+        "end_sec":  8.545,
+        "narration":  "위산이 식도로 올라오면 가슴 쓰림과 신물이 반복될 수 있어요.",
+        "caption":  "위산이 올라오면\n가슴 쓰림과 신물이 반복될 수 있어요",
+        "image":  "assets/images/scene-02.png",
+        "visual":  "Respectful non-graphic medical education scene showing chest discomfort."
+    },
+    {
+        "id":  3,
+        "start_sec":  8.545,
+        "duration_sec":  4.551,
+        "end_sec":  13.096,
+        "narration":  "특히 야식 먹고 눕는 습관은 증상을 더 쉽게 만들 수 있습니다.",
+        "caption":  "야식 먹고 눕는 습관\n증상을 키울 수 있습니다",
+        "image":  "assets/images/scene-03.png",
+        "visual":  "Late night snack on table, Korean adult looking toward bed."
+    },
+    {
+        "id":  4,
+        "start_sec":  13.096,
+        "duration_sec":  5.016,
+        "end_sec":  18.112,
+        "narration":  "식후에는 바로 눕지 말고, 가능하면 두세 시간은 앉거나 가볍게 움직이세요.",
+        "caption":  "식후 바로 눕지 말고\n2~3시간은 앉거나 가볍게 움직이기",
+        "image":  "assets/images/scene-04.png",
+        "visual":  "After dinner, Korean adult sitting upright or taking a gentle walk."
+    },
+    {
+        "id":  5,
+        "start_sec":  18.112,
+        "duration_sec":  5.805,
+        "end_sec":  23.917,
+        "narration":  "기름진 음식, 매운 음식, 커피, 술은 사람에 따라 증상을 키울 수 있습니다.",
+        "caption":  "기름진 음식, 매운 음식\n커피, 술은 증상을 키울 수 있어요",
+        "image":  "assets/images/scene-05.png",
+        "visual":  "Trigger foods and drinks shown tastefully on table with caution mood."
+    },
+    {
+        "id":  6,
+        "start_sec":  23.917,
+        "duration_sec":  3.297,
+        "end_sec":  27.214,
+        "narration":  "내 몸에서 반복되는 음식은 기록해두는 게 좋습니다.",
+        "caption":  "반복되는 음식은\n기록해두세요",
+        "image":  "assets/images/scene-06.png",
+        "visual":  "Korean adult writing food symptom diary on phone or notebook."
+    },
+    {
+        "id":  7,
+        "start_sec":  27.214,
+        "duration_sec":  5.48,
+        "end_sec":  32.694,
+        "narration":  "하지만 삼키기 어렵거나, 체중이 줄거나, 통증이 계속되면 참지 마세요.",
+        "caption":  "삼키기 어렵거나 체중 감소\n통증이 계속되면 참지 마세요",
+        "image":  "assets/images/scene-07.png",
+        "visual":  "Korean patient talking with doctor, serious but calm consultation."
+    },
+    {
+        "id":  8,
+        "start_sec":  32.694,
+        "duration_sec":  4.644,
+        "end_sec":  37.338,
+        "narration":  "습관으로 줄일 수 있는 건 줄이고, 반복되면 진료로 확인하세요.",
+        "caption":  "습관은 줄이고\n반복되면 진료로 확인하세요",
+        "image":  "assets/images/scene-08.png",
+        "visual":  "Healthy routine checklist after dinner, upright posture, water, calendar."
+    }
+]

@@ -1,0 +1,20 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: CenterCaption, Malgun Gothic, 86, &H00FFFFFF, &H000000FF, &H00000000, &HAA000000, -1, 0, 0, 0, 100, 100, 0, 0, 1, 7, 1, 5, 70, 70, 0, 1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.36,CenterCaption,,0,0,0,,{\an5\pos(540,960)}뇌졸중은\N평소 혈압에서 시작됩니다
+Dialogue: 0,0:00:04.36,0:00:09.66,CenterCaption,,0,0,0,,{\an5\pos(540,960)}짜게 먹는 습관 줄이고\N채소, 생선, 견과류
+Dialogue: 0,0:00:09.66,0:00:14.02,CenterCaption,,0,0,0,,{\an5\pos(540,960)}혈압, 혈당, 콜레스테롤\N숫자로 확인하세요
+Dialogue: 0,0:00:14.02,0:00:19.13,CenterCaption,,0,0,0,,{\an5\pos(540,960)}담배는 끊고 술은 줄이고\N매일 30분 걷기
+Dialogue: 0,0:00:19.13,0:00:23.45,CenterCaption,,0,0,0,,{\an5\pos(540,960)}얼굴, 팔, 말이 갑자기 이상하면\N음식으로 버티면 안 됩니다
+Dialogue: 0,0:00:23.45,0:00:26.28,CenterCaption,,0,0,0,,{\an5\pos(540,960)}그때는 예방이 아니라\N응급상황입니다
+Dialogue: 0,0:00:26.28,0:00:30.23,CenterCaption,,0,0,0,,{\an5\pos(540,960)}평소엔 식단과 운동\N갑자기 이상하면 도움 요청
+Dialogue: 0,0:00:30.23,0:00:33.85,CenterCaption,,0,0,0,,{\an5\pos(540,960)}뇌졸중 예방\N현실적인 체크리스트

@@ -1,0 +1,9 @@
+﻿Use case: photorealistic-natural
+Asset type: 9:16 health Shorts scene, scene 4 of a Korean health education video
+Primary request: A realistic Korean adult eating a healthy Korean meal slowly, starting with vegetables before protein and rice, showing mindful meal order.
+Scene/backdrop: Korean dining table with vegetables, tofu or fish, and rice bowl.
+Subject: clearly visible Korean adult holding chopsticks, eating calmly, natural face and hands.
+Style/medium: photorealistic editorial lifestyle health education image.
+Composition/framing: vertical 9:16, medium shot, person and meal tray visible, leave center/lower center space for captions, no embedded text.
+Lighting/mood: warm natural home lighting, practical, trustworthy.
+Constraints: no readable text, no logos, no watermark, no medical gore, no fake UI, no distorted hands or face, avoid food-only frame.
