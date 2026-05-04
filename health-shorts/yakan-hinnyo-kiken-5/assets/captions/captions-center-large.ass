@@ -1,0 +1,24 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Center,MS Gothic,74,&H00FFFFFF,&H000000FF,&H00000000,&H99000000,1,0,0,0,100,100,0,0,1,5,1,5,70,70,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.60,0:00:04.36,Center,,0,0,0,,年のせいで片づけない
+Dialogue: 0,0:00:04.36,0:00:08.22,Center,,0,0,0,,夜間頻尿 危険サイン5つ
+Dialogue: 0,0:00:08.22,0:00:11.24,Center,,0,0,0,,1 一晩に2回以上
+Dialogue: 0,0:00:11.24,0:00:15.41,Center,,0,0,0,,睡眠不足と転倒リスク
+Dialogue: 0,0:00:15.41,0:00:17.97,Center,,0,0,0,,2 毎回しっかり出る
+Dialogue: 0,0:00:17.97,0:00:25.86,Center,,0,0,0,,夜間多尿に注意
+Dialogue: 0,0:00:25.86,0:00:28.84,Center,,0,0,0,,3 少量なのに何度も
+Dialogue: 0,0:00:28.84,0:00:35.06,Center,,0,0,0,,膀胱にためる力の低下
+Dialogue: 0,0:00:35.06,0:00:37.89,Center,,0,0,0,,4 寝る前の飲みすぎ
+Dialogue: 0,0:00:37.89,0:00:43.32,Center,,0,0,0,,飲みすぎに根拠なし
+Dialogue: 0,0:00:43.32,0:00:47.23,Center,,0,0,0,,5 いびき むくみ 眠気
+Dialogue: 0,0:00:47.23,0:00:52.24,Center,,0,0,0,,睡眠時無呼吸も関係
+Dialogue: 0,0:00:52.24,0:00:59.53,Center,,0,0,0,,排尿日誌が手がかり

@@ -1,0 +1,80 @@
+﻿[
+    {
+        "caption":  "むせを老化で片づけない",
+        "narration":  "食事中のむせ、ただの老化だと思うと危険です。",
+        "id":  "scene-01",
+        "visual":  "elderly Japanese man coughing lightly at dining table while spouse looks worried"
+    },
+    {
+        "caption":  "誤嚥性肺炎のサイン5つ",
+        "narration":  "高齢者で増える、誤嚥性肺炎のサイン5つ。",
+        "id":  "scene-02",
+        "visual":  "Japanese senior couple in a bright clinic listening to a doctor, serious public health mood"
+    },
+    {
+        "caption":  "1 お茶や味噌汁でむせる",
+        "narration":  "1 お茶や味噌汁で、前よりむせる。",
+        "id":  "scene-03",
+        "visual":  "Japanese senior woman coughing after sipping tea at a home table"
+    },
+    {
+        "caption":  "水分で気づく飲み込み低下",
+        "narration":  "水分は気管に入りやすく、飲み込みの力の低下に気づく合図です。",
+        "id":  "scene-04",
+        "visual":  "Japanese clinician showing a swallow diagram to an older patient, no readable text"
+    },
+    {
+        "caption":  "2 食後の咳が続く",
+        "narration":  "2 食後に咳が続く。",
+        "id":  "scene-05",
+        "visual":  "Japanese elderly man covering mouth after meal, family member concerned"
+    },
+    {
+        "caption":  "喉に残る感じに注意",
+        "narration":  "食べ物や唾液が喉に残っている可能性があります。",
+        "id":  "scene-06",
+        "visual":  "Japanese senior touching throat after eating, calm home dining room"
+    },
+    {
+        "caption":  "3 声がガラガラになる",
+        "narration":  "3 声がガラガラに変わる。",
+        "id":  "scene-07",
+        "visual":  "Japanese older woman speaking after a meal with worried expression, caregiver nearby"
+    },
+    {
+        "caption":  "湿った声はサイン",
+        "narration":  "飲み込んだ後の湿った声は、喉に残りがあるサインです。",
+        "id":  "scene-08",
+        "visual":  "speech therapist gently checking swallowing of Japanese senior in clinic"
+    },
+    {
+        "caption":  "4 食事が長く量が減る",
+        "narration":  "4 食事の時間が長くなり、食べる量が減る。",
+        "id":  "scene-09",
+        "visual":  "half-finished Japanese meal tray in front of an older adult, family watching carefully"
+    },
+    {
+        "caption":  "低栄養と体力低下に注意",
+        "narration":  "低栄養や体力低下につながります。",
+        "id":  "scene-10",
+        "visual":  "Japanese senior walking slowly with caregiver support, realistic public health scene"
+    },
+    {
+        "caption":  "5 むせない肺炎にも注意",
+        "narration":  "5 むせないのに、発熱やだるさを繰り返す。重い嚥下障害では、むしろむせにくいことがあります。",
+        "id":  "scene-11",
+        "visual":  "Japanese elderly patient resting with thermometer while caregiver calls clinic"
+    },
+    {
+        "caption":  "急がず小さく 食後は座る",
+        "narration":  "今日から、急いで食べない。一口を小さくする。食後はすぐ横にならない。",
+        "id":  "scene-12",
+        "visual":  "Japanese senior eating slowly with small bites, upright posture at table"
+    },
+    {
+        "caption":  "続くむせ 息苦しさは相談",
+        "narration":  "むせが続く、肺炎を繰り返す、急に息苦しい。これは歯科や医師、救急相談の目安です。",
+        "id":  "scene-13",
+        "visual":  "Japanese doctor consulting an older patient and family in clinic, reassuring but serious"
+    }
+]

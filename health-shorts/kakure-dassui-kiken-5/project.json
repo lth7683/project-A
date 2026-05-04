@@ -1,0 +1,43 @@
+﻿{
+    "title":  "高齢者の隠れ脱水、危険サイン5つ",
+    "slug":  "kakure-dassui-kiken-5",
+    "language":  "ja",
+    "target_duration_sec":  60,
+    "voice_id":  "j210dv0vWm7fCknyQpbA",
+    "thumbnail":  "assets/thumbnail.png",
+    "thumbnail_intro_sec":  0.6,
+    "title_path":  "title.txt",
+    "description_path":  "description.md",
+    "render":  {
+                   "width":  1080,
+                   "height":  1920,
+                   "fps":  30
+               },
+    "topic_selection":  {
+                            "chosen_topic":  "高齢者の隠れ脱水、危険サイン5つ",
+                            "reason":  "Early May heat and indoor dehydration are relevant to Japanese seniors; symptoms are self-recognizable and meaningfully different from prior blood pressure, swallowing, nocturia, and blood sugar topics.",
+                            "chosen_at":  "2026-05-03"
+                        },
+    "duplicate_check":  {
+                            "candidate":  "高齢者の隠れ脱水、危険サイン5つ",
+                            "duplicate_risk":  false,
+                            "checked_at":  "2026-05-03",
+                            "tool":  "health-shorts/scripts/topic_audit.py"
+                        },
+    "status":  {
+                   "script":  "complete",
+                   "sources":  "complete",
+                   "scenes":  "complete_segment_timed",
+                   "captions":  "complete_center_ass_and_srt_segment_synced_rerendered",
+                   "tts":  "complete_elevenlabs_segmented_synced_hiragana_number_pauses_rerendered",
+                   "images":  "complete_fresh_imagegen_project_bound_visual_match_verified",
+                   "render":  "complete_final_mp4_rerendered_58s"
+               },
+    "translation_ko_path":  "translation-ko.md",
+    "actual_duration_sec":  58.418,
+    "sync_method":  "scene-by-scene ElevenLabs TTS measured with ffprobe; 0.6s intro silence prepended; numbered items use hiragana spoken numbers with line breaks for natural pauses",
+    "visual_match":  "verified_scene_images_match_narration_contact_sheet",
+    "final_qc":  "pass",
+    "final_qc_path":  "final-qc.md",
+    "bilingual_script_path":  "bilingual-script.md"
+}

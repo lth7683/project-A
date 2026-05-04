@@ -1,0 +1,26 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Center,Malgun Gothic,82,&H00FFFFFF,&H000000FF,&H00000000,&H99000000,1,0,0,0,100,100,0,0,1,6,1,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.20,Center,,0,0,0,,아침 손저림\N잠버릇으로 넘기지 마세요
+Dialogue: 0,0:00:03.20,0:00:07.56,Center,,0,0,0,,엄지·검지·중지\N찌릿하면 손목터널 신호
+Dialogue: 0,0:00:07.56,0:00:11.43,Center,,0,0,0,,밤에 심하고\N손을 털면 잠깐 편해짐
+Dialogue: 0,0:00:11.43,0:00:15.42,Center,,0,0,0,,손목 안 좁은 통로에서\N신경이 눌릴 수 있어요
+Dialogue: 0,0:00:15.42,0:00:19.33,Center,,0,0,0,,휴대폰 오래 쥐기\N손목 꺾고 자기 주의
+Dialogue: 0,0:00:19.33,0:00:22.60,Center,,0,0,0,,키보드·마우스 오래 쓰면\N손목 자세 확인
+Dialogue: 0,0:00:22.60,0:00:26.32,Center,,0,0,0,,처음엔 왔다 갔다\N오래가면 감각 저하
+Dialogue: 0,0:00:26.32,0:00:31.70,Center,,0,0,0,,단추·젓가락·동전\N어색하면 힘 빠짐 신호
+Dialogue: 0,0:00:31.70,0:00:36.14,Center,,0,0,0,,물건을 자주 떨어뜨리면\N진료를 늦추지 마세요
+Dialogue: 0,0:00:36.14,0:00:39.48,Center,,0,0,0,,밤에는 손목을 곧게\N보조기가 도움될 수 있어요
+Dialogue: 0,0:00:39.48,0:00:43.47,Center,,0,0,0,,손목 꺾은 자세 줄이고\N중간중간 쉬기
+Dialogue: 0,0:00:43.47,0:00:47.75,Center,,0,0,0,,당뇨·갑상샘·류마티스\N있으면 더 확인
+Dialogue: 0,0:00:47.75,0:00:52.53,Center,,0,0,0,,며칠 이상 반복되면\N정형외과·신경과 확인
+Dialogue: 0,0:00:52.53,0:00:56.82,Center,,0,0,0,,목 신경 문제도 비슷해요\N정확한 확인이 중요
+Dialogue: 0,0:00:56.82,0:01:00.00,Center,,0,0,0,,아침 손저림 체크리스트\N고정 댓글에서 확인

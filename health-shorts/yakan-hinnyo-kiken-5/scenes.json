@@ -1,0 +1,142 @@
+[
+  {
+    "id": "thumbnail-intro",
+    "start_sec": 0.0,
+    "duration_sec": 0.6,
+    "end_sec": 0.6,
+    "narration": "",
+    "caption": "",
+    "image": "assets/thumbnail.png",
+    "image_prompt": "Use case: ads-marketing. Asset type: 9:16 Japanese YouTube Shorts thumbnail. Primary request: a realistic Japanese senior man sitting awake on the edge of a bed at night, worried, dim bedroom light, hallway to bathroom visible, strong health-risk mood. Text verbatim: \"夜中のトイレ\" and \"危険サイン5つ\". Style/medium: premium realistic editorial health thumbnail photo. Composition/framing: vertical 9:16, senior face large and clear, bold high-contrast Japanese text in 2 lines, no extra readable text. Lighting/mood: urgent but not shocking. Constraints: brand-new image, no logos, no watermark, no gore, no reused assets."
+  },
+  {
+    "id": "scene-01",
+    "narration": "夜中のトイレ、年のせいで片づけると危険です。",
+    "caption": "年のせいで片づけない",
+    "duration_sec": 3.762,
+    "image": "assets/images/scene-01.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: a realistic Japanese senior man awake at night, sitting on bed and looking toward a bathroom door with concern. Style/medium: premium realistic Japanese public-health awareness photo. Composition/framing: vertical 9:16, clear senior subject, room for centered captions. Lighting/mood: dim night bedroom, serious, trustworthy. Constraints: brand-new project-specific image, no readable text, no logos, no watermark, no gore, no shock imagery, no reused assets.",
+    "start_sec": 0.6,
+    "end_sec": 4.362
+  },
+  {
+    "id": "scene-02",
+    "narration": "高齢者の夜間頻尿、危険サイン5つ。",
+    "caption": "夜間頻尿 危険サイン5つ",
+    "duration_sec": 3.855,
+    "image": "assets/images/scene-02.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese elderly couple in a clinic speaking with a urologist, a simple urine diary sheet on desk without readable text. Style/medium: premium realistic medical consultation photo. Composition/framing: vertical 9:16, doctor and seniors visible, room for captions. Lighting/mood: bright clinic, serious and reassuring. Constraints: brand-new image, no readable text, no logos, no watermark, no reused assets.",
+    "start_sec": 4.362,
+    "end_sec": 8.216
+  },
+  {
+    "id": "scene-03",
+    "narration": "???\n???????????",
+    "caption": "1 一晩に2回以上",
+    "duration_sec": 3.019,
+    "image": "assets/images/scene-03.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese senior woman checking a bedside clock at night after waking up, slippers beside bed, bathroom hallway softly lit. Style/medium: realistic public-health photo. Composition/framing: vertical 9:16, clear body language of interrupted sleep. Lighting/mood: quiet night, concerned. Constraints: brand-new image, no readable text, no logos, no watermark, no reused assets.",
+    "start_sec": 8.216,
+    "end_sec": 11.235
+  },
+  {
+    "id": "scene-04",
+    "narration": "睡眠が切れて、日中の疲労と転倒リスクが上がります。",
+    "caption": "睡眠不足と転倒リスク",
+    "duration_sec": 4.18,
+    "image": "assets/images/scene-04.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese senior man walking carefully in a dark hallway at night, one hand on wall for balance, bathroom light ahead. Style/medium: realistic health awareness photo. Composition/framing: vertical 9:16, show fall-risk environment without actual fall. Lighting/mood: dim, serious, safe not shocking. Constraints: brand-new image, no gore, no injury, no logos, no text, no reused assets.",
+    "start_sec": 11.235,
+    "end_sec": 15.414
+  },
+  {
+    "id": "scene-05",
+    "narration": "??\n???????????",
+    "caption": "2 毎回しっかり出る",
+    "duration_sec": 2.554,
+    "image": "assets/images/scene-05.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese senior filling out a simple urine diary at a kitchen table in the morning, measuring cup nearby but no readable markings. Style/medium: realistic public-health photo. Composition/framing: vertical 9:16, hands and diary visible, face thoughtful. Lighting/mood: morning natural light, practical and trustworthy. Constraints: brand-new image, no readable text, no logos, no watermark, no reused assets.",
+    "start_sec": 15.414,
+    "end_sec": 17.969
+  },
+  {
+    "id": "scene-06",
+    "narration": "夜間多尿の可能性があり、高血圧、心不全、腎機能、糖尿病が隠れることがあります。",
+    "caption": "夜間多尿に注意",
+    "duration_sec": 7.895,
+    "image": "assets/images/scene-06.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese doctor reviewing blood pressure monitor, glucose meter, and kidney test papers with an elderly patient, no readable text. Style/medium: realistic clinic consultation photo. Composition/framing: vertical 9:16, medical objects visible but not branded. Lighting/mood: serious, trustworthy. Constraints: brand-new image, no logos, no readable text, no watermark, no reused assets.",
+    "start_sec": 17.969,
+    "end_sec": 25.863
+  },
+  {
+    "id": "scene-07",
+    "narration": "???\n???????????????",
+    "caption": "3 少量なのに何度も",
+    "duration_sec": 2.972,
+    "image": "assets/images/scene-07.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese senior woman standing near bathroom door at night with frustrated worried expression, holding robe, small bathroom visible. Style/medium: realistic health awareness photo. Composition/framing: vertical 9:16, clear emotional cue. Lighting/mood: dim home lighting, serious. Constraints: brand-new image, no readable text, no logos, no watermark, no reused assets.",
+    "start_sec": 25.863,
+    "end_sec": 28.835
+  },
+  {
+    "id": "scene-08",
+    "narration": "過活動膀胱や前立腺肥大など、膀胱にためる力の低下が疑われます。",
+    "caption": "膀胱にためる力の低下",
+    "duration_sec": 6.223,
+    "image": "assets/images/scene-08.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese urologist explaining bladder health to an elderly couple using a tablet with simple abstract body diagram, no readable text. Style/medium: realistic medical education photo. Composition/framing: vertical 9:16, clinician and seniors visible. Lighting/mood: calm clinic, expert and reassuring. Constraints: brand-new image, no logos, no readable text, no watermark, no reused assets.",
+    "start_sec": 28.835,
+    "end_sec": 35.058
+  },
+  {
+    "id": "scene-09",
+    "narration": "???\n???????????",
+    "caption": "4 寝る前の飲みすぎ",
+    "duration_sec": 2.833,
+    "image": "assets/images/scene-09.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese elderly man in pajamas reaching for a large glass of water on bedside table before sleep, thoughtful expression. Style/medium: realistic home health photo. Composition/framing: vertical 9:16, glass of water and bed visible. Lighting/mood: night lamp, cautionary. Constraints: brand-new image, no readable text, no logos, no watermark, no reused assets.",
+    "start_sec": 35.058,
+    "end_sec": 37.891
+  },
+  {
+    "id": "scene-10",
+    "narration": "血液サラサラ目的の飲みすぎに、明確な予防効果は示されていません。",
+    "caption": "飲みすぎに根拠なし",
+    "duration_sec": 5.433,
+    "image": "assets/images/scene-10.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese pharmacist or doctor gently advising an elderly woman about evening water intake, medicine organizer and water glass on table, no brands. Style/medium: realistic public-health photo. Composition/framing: vertical 9:16, clear consultation scene. Lighting/mood: warm, trustworthy, cautionary. Constraints: brand-new image, no readable text, no logos, no watermark, no reused assets.",
+    "start_sec": 37.891,
+    "end_sec": 43.325
+  },
+  {
+    "id": "scene-11",
+    "narration": "??\n??????????????????",
+    "caption": "5 いびき むくみ 眠気",
+    "duration_sec": 3.901,
+    "image": "assets/images/scene-11.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese senior sitting on sofa in daytime looking sleepy, one hand near swollen ankle, spouse concerned nearby. Style/medium: realistic health awareness photo. Composition/framing: vertical 9:16, ankle swelling and sleepiness visible without exaggeration. Lighting/mood: daytime home, serious. Constraints: brand-new image, no gore, no logos, no readable text, no reused assets.",
+    "start_sec": 43.325,
+    "end_sec": 47.226
+  },
+  {
+    "id": "scene-12",
+    "narration": "睡眠時無呼吸や心臓、腎臓の病気が関わることがあります。",
+    "caption": "睡眠時無呼吸も関係",
+    "duration_sec": 5.016,
+    "image": "assets/images/scene-12.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese sleep clinic consultation, elderly patient discussing snoring and sleep apnea with clinician, CPAP-style device on desk without branding. Style/medium: realistic medical photo. Composition/framing: vertical 9:16, clinician and patient clear, room for captions. Lighting/mood: clean clinic, serious and helpful. Constraints: brand-new image, no readable text, no logos, no watermark, no reused assets.",
+    "start_sec": 47.226,
+    "end_sec": 52.241
+  },
+  {
+    "id": "scene-13",
+    "narration": "まず排尿日誌。時刻、量、水分、薬を記録すると、原因の手がかりになります。",
+    "caption": "排尿日誌が手がかり",
+    "duration_sec": 7.291,
+    "image": "assets/images/scene-13.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese senior at breakfast table recording bathroom times, water intake, and medication in a diary, no readable text, family member nearby. Style/medium: realistic practical health photo. Composition/framing: vertical 9:16, diary and pen visible, clear hopeful action. Lighting/mood: morning, practical, trustworthy. Constraints: brand-new image, no readable text, no logos, no watermark, no reused assets.",
+    "start_sec": 52.241,
+    "end_sec": 59.532
+  }
+]

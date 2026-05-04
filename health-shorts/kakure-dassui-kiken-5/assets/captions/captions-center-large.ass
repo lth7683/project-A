@@ -1,0 +1,23 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Center,MS Gothic,74,&H00FFFFFF,&H000000FF,&H00000000,&H99000000,1,0,0,0,100,100,0,0,1,5,1,5,70,70,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.60,0:00:10.17,Center,,0,0,0,,渇かない脱水が危険
+Dialogue: 0,0:00:10.17,0:00:13.51,Center,,0,0,0,,隠れ脱水 危険サイン5つ
+Dialogue: 0,0:00:13.51,0:00:16.11,Center,,0,0,0,,1 朝から尿の色が濃い
+Dialogue: 0,0:00:16.11,0:00:20.48,Center,,0,0,0,,尿が少なく濃くなる
+Dialogue: 0,0:00:20.48,0:00:23.96,Center,,0,0,0,,2 口がねばつき食欲低下
+Dialogue: 0,0:00:23.96,0:00:29.11,Center,,0,0,0,,渇きに気づきにくい
+Dialogue: 0,0:00:29.11,0:00:32.13,Center,,0,0,0,,3 立つとふらつく
+Dialogue: 0,0:00:32.13,0:00:41.98,Center,,0,0,0,,めまいと転倒リスク
+Dialogue: 0,0:00:41.98,0:00:46.25,Center,,0,0,0,,4 室内でも体が熱い
+Dialogue: 0,0:00:46.25,0:00:50.85,Center,,0,0,0,,室内熱中症に注意
+Dialogue: 0,0:00:50.85,0:00:53.96,Center,,0,0,0,,5 ぼんやり 返事が遅い
+Dialogue: 0,0:00:53.96,0:00:58.42,Center,,0,0,0,,意識異常はすぐ医療へ

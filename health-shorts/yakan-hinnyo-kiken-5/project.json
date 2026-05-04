@@ -1,0 +1,40 @@
+{
+  "title": "夜中のトイレ危険サイン5つ。年のせいは危ない",
+  "slug": "yakan-hinnyo-kiken-5",
+  "language": "ja",
+  "target_duration_sec": 60,
+  "voice_id": "j210dv0vWm7fCknyQpbA",
+  "thumbnail": "assets/thumbnail.png",
+  "thumbnail_intro_sec": 0.6,
+  "title_path": "title.txt",
+  "description_path": "description.md",
+  "render": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "topic_selection": {
+    "chosen_topic": "夜中に何度もトイレ、危険サイン5つ",
+    "reason": "Japanese seniors commonly experience nocturia; it affects sleep and night-time fall risk, and it differs from prior blood pressure and aspiration topics.",
+    "chosen_at": "2026-05-03"
+  },
+  "duplicate_check": {
+    "candidate": "夜中に何度もトイレ、危険サイン5つ",
+    "duplicate_risk": false,
+    "checked_at": "2026-05-03",
+    "tool": "health-shorts/scripts/topic_audit.py"
+  },
+  "status": {
+    "script": "complete",
+    "sources": "complete",
+    "scenes": "complete_segment_timed_hiragana_number_pauses",
+    "captions": "complete_center_ass_and_srt_segment_synced",
+    "tts": "complete_elevenlabs_segmented_synced_hiragana_number_pauses",
+    "images": "complete_fresh_imagegen_project_bound_replaced_scene_11_12_13",
+    "render": "complete_final_mp4_after_scene_11_12_13_image_replacement"
+  },
+  "actual_duration_sec": 59.532,
+  "translation_ko_path": "translation-ko.md",
+  "sync_method": "scene-by-scene ElevenLabs TTS measured with ffprobe; numbered items use hiragana spoken numbers with line breaks for natural pauses",
+  "visual_match": "verified_scene_images_match_narration_after_replacing_scene_11_12_13"
+}

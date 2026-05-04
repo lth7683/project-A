@@ -1,0 +1,132 @@
+[
+  {
+    "id": "thumbnail-intro",
+    "start_sec": 0.0,
+    "duration_sec": 0.6,
+    "end_sec": 0.6,
+    "narration": "",
+    "caption": "",
+    "image": "assets/thumbnail.png",
+    "image_prompt": "Intro frame using generated thumbnail."
+  },
+  {
+    "id": "scene-01",
+    "start_sec": 0.6,
+    "duration_sec": 1.393,
+    "end_sec": 1.993,
+    "narration": "知らないと危険。",
+    "caption": "知らないと危険",
+    "image": "assets/images/scene-01.png",
+    "image_prompt": "Use case: health-educational. Asset type: 9:16 Japanese health Shorts scene. Realistic photo of a concerned Japanese senior man in a quiet morning bedroom holding a home blood pressure monitor, serious warning mood, clear face and hands, vertical composition with empty center area for captions. No readable text, no logos, no watermark, no gore."
+  },
+  {
+    "id": "scene-02",
+    "start_sec": 1.993,
+    "duration_sec": 3.483,
+    "end_sec": 5.476,
+    "narration": "朝に血圧を上げる最悪習慣7つ",
+    "caption": "朝に血圧を上げる最悪習慣7つ",
+    "image": "assets/images/scene-02.png",
+    "image_prompt": "Use case: health-educational. Asset type: 9:16 Japanese health Shorts scene. Realistic Japanese senior couple at a breakfast table with a blood pressure monitor nearby, tense morning atmosphere, warm natural light, clear Japanese home setting, room for centered captions. No readable text, no logos, no watermark."
+  },
+  {
+    "id": "scene-03",
+    "start_sec": 5.476,
+    "duration_sec": 6.873,
+    "end_sec": 12.349,
+    "narration": "1 起きてすぐ熱い風呂。寒冷刺激と急な温度差で、交感神経が一気に働く。",
+    "caption": "1 起きてすぐ熱い風呂",
+    "image": "assets/images/scene-03.png",
+    "image_prompt": "Use case: health-educational. Asset type: 9:16 Japanese health Shorts scene. Realistic Japanese senior man about to enter a steamy hot bathroom immediately after waking, towel on shoulder, cautious expression, no nudity, bathroom visible, serious public health style. No readable text, no logos, no watermark."
+  },
+  {
+    "id": "scene-04",
+    "start_sec": 12.349,
+    "duration_sec": 7.616,
+    "end_sec": 19.965,
+    "narration": "2 朝から濃い味噌汁と漬物。ナトリウム過多は血液量を増やし、血圧を押し上げる。",
+    "caption": "2 濃い味噌汁と漬物",
+    "image": "assets/images/scene-04.png",
+    "image_prompt": "Use case: health-educational. Asset type: 9:16 Japanese health Shorts scene. Realistic Japanese senior breakfast table with a senior woman looking at a bowl of miso soup, pickles, soy sauce bottle, and rice, clear salt-heavy meal cue, warm kitchen light. No readable labels, no logos, no watermark."
+  },
+  {
+    "id": "scene-05",
+    "start_sec": 19.965,
+    "duration_sec": 2.276,
+    "end_sec": 22.241,
+    "narration": "3 薬を自己判断で抜く。",
+    "caption": "3 薬を自己判断で抜く",
+    "image": "assets/images/scene-05.png",
+    "image_prompt": "Use case: health-educational. Asset type: 9:16 Japanese health Shorts scene. Realistic Japanese senior man looking unsure at a pill organizer and prescription bag on a morning table, no readable medication labels, serious caution mood, clear face and hands. No logos, no watermark."
+  },
+  {
+    "id": "scene-06",
+    "start_sec": 22.241,
+    "duration_sec": 5.016,
+    "end_sec": 27.257,
+    "narration": "降圧薬を止めると、血圧は元に戻り、ときにさらに上がる。",
+    "caption": "降圧薬を抜く判断は危険",
+    "image": "assets/images/scene-06.png",
+    "image_prompt": "Use case: health-educational. Asset type: 9:16 Japanese health Shorts scene. Realistic Japanese doctor gently advising a senior patient about medication at a clinic, pill organizer on desk, patient listening seriously, no readable papers, calm but firm medical guidance. No logos, no watermark."
+  },
+  {
+    "id": "scene-07",
+    "start_sec": 27.257,
+    "duration_sec": 5.433,
+    "end_sec": 32.69,
+    "narration": "4 測らずに外へ出る。早朝高血圧は自覚症状が少ない。",
+    "caption": "4 測らずに外へ出る",
+    "image": "assets/images/scene-07.png",
+    "image_prompt": "Use case: health-educational. Asset type: 9:16 Japanese health Shorts scene. Realistic Japanese senior woman putting on shoes at the entrance in the morning while a blood pressure monitor sits unused on a nearby table, clear missed measurement cue. No readable text, no logos, no watermark."
+  },
+  {
+    "id": "scene-08",
+    "start_sec": 32.69,
+    "duration_sec": 1.904,
+    "end_sec": 34.594,
+    "narration": "家庭血圧で見つける。",
+    "caption": "家庭血圧で見つける",
+    "image": "assets/images/scene-08.png",
+    "image_prompt": "Use case: health-educational. Asset type: 9:16 Japanese health Shorts scene. Realistic Japanese senior man seated calmly after waking, measuring blood pressure with upper-arm cuff at a table, proper posture, morning light, focused expression. No readable display text, no logos, no watermark."
+  },
+  {
+    "id": "scene-09",
+    "start_sec": 34.594,
+    "duration_sec": 6.78,
+    "end_sec": 41.374,
+    "narration": "5 起き抜けにタバコ。ニコチンは血管を収縮させる。朝の一本は血圧にきつい。",
+    "caption": "5 起き抜けにタバコ",
+    "image": "assets/images/scene-09.png",
+    "image_prompt": "Use case: health-educational. Asset type: 9:16 Japanese health Shorts scene. Realistic Japanese senior man standing on a balcony in the morning holding an unlit cigarette, concerned expression, no glamorization, health warning mood, urban Japanese apartment background. No readable text, no logos, no watermark."
+  },
+  {
+    "id": "scene-10",
+    "start_sec": 41.374,
+    "duration_sec": 4.923,
+    "end_sec": 46.297,
+    "narration": "6 息を止めて力む運動。いきみは血圧を急上昇させる。",
+    "caption": "6 息を止めて力む運動",
+    "image": "assets/images/scene-10.png",
+    "image_prompt": "Use case: health-educational. Asset type: 9:16 Japanese health Shorts scene. Realistic Japanese senior man straining while lifting a heavy box at home, holding breath, tense posture, caregiver nearby concerned, safe non-injury scene. No readable text, no logos, no watermark."
+  },
+  {
+    "id": "scene-11",
+    "start_sec": 46.297,
+    "duration_sec": 2.647,
+    "end_sec": 48.944,
+    "narration": "散歩も準備して軽く始める。",
+    "caption": "散歩も軽く始める",
+    "image": "assets/images/scene-11.png",
+    "image_prompt": "Use case: health-educational. Asset type: 9:16 Japanese health Shorts scene. Realistic Japanese senior couple doing gentle warm-up before a morning walk in a quiet neighborhood, relaxed breathing, safe exercise cue, hopeful but still educational. No readable text, no logos, no watermark."
+  },
+  {
+    "id": "scene-12",
+    "start_sec": 48.944,
+    "duration_sec": 8.925,
+    "end_sec": 57.869,
+    "narration": "7 寝不足のまま無理に動く。睡眠不足とストレスは血圧を乱す。朝の体調を無視してはいけない。",
+    "caption": "7 寝不足で無理に動く",
+    "image": "assets/images/scene-12.png",
+    "image_prompt": "Use case: health-educational. Asset type: 9:16 Japanese health Shorts scene. Realistic Japanese senior woman sitting on the edge of a bed in the morning looking tired, alarm clock nearby, soft daylight, concerned but not dramatic, senior health education style. No readable text, no logos, no watermark."
+  }
+]

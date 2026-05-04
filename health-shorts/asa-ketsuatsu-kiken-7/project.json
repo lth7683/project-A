@@ -1,0 +1,33 @@
+{
+  "title": "知らないと危険。朝に血圧を上げる最悪習慣7つ",
+  "slug": "asa-ketsuatsu-kiken-7",
+  "topic": "朝に血圧を上げる危険習慣7つ",
+  "language": "ja",
+  "audience": "Japanese seniors",
+  "target_duration_sec": 60,
+  "actual_audio_duration_sec": 57.869,
+  "thumbnail_intro_sec": 0.6,
+  "voice_id": "j210dv0vWm7fCknyQpbA",
+  "thumbnail": "assets/thumbnail.png",
+  "description": "description.md",
+  "duplicate_check": {
+    "candidate": "朝に血圧を上げる危険習慣7つ",
+    "duplicate_risk": false,
+    "checked_at": "2026-05-02",
+    "tool": "health-shorts/scripts/topic_audit.py"
+  },
+  "render": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "status": {
+    "script": "complete",
+    "sources": "complete",
+    "scenes": "complete",
+    "captions": "complete",
+    "tts": "complete",
+    "images": "complete_imagegen_realistic_human_scenes",
+    "render": "complete_final_mp4"
+  }
+}

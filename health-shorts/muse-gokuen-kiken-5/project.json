@@ -1,0 +1,36 @@
+{
+  "title": "???????????????????????5?",
+  "slug": "muse-gokuen-kiken-5",
+  "language": "ja",
+  "target_duration_sec": 60,
+  "voice_id": "j210dv0vWm7fCknyQpbA",
+  "thumbnail": "assets/thumbnail.png",
+  "thumbnail_intro_sec": 0.6,
+  "title_path": "title.txt",
+  "description_path": "description.md",
+  "render": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "status": {
+    "script": "complete",
+    "sources": "complete",
+    "scenes": "complete",
+    "captions": "complete_center_ass_and_srt",
+    "tts": "complete_elevenlabs",
+    "images": "provisional_reused_realistic_human_images_replace_with_imagegen_prompts",
+    "render": "complete_final_mp4_elevenlabs"
+  },
+  "duplicate_check": {
+    "candidate": "??????????????????",
+    "duplicate_risk": false,
+    "checked_at": "2026-05-02",
+    "tool": "health-shorts/scripts/topic_audit.py"
+  },
+  "actual_duration_sec": 57.675,
+  "notes": [
+    "ElevenLabs key was used only from the process environment and was not written to project files.",
+    "Scene images remain provisional reused realistic human images; image prompts are included for replacement."
+  ]
+}

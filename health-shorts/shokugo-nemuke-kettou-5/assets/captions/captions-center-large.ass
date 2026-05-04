@@ -1,0 +1,23 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Center,MS Gothic,74,&H00FFFFFF,&H000000FF,&H00000000,&H99000000,1,0,0,0,100,100,0,0,1,5,1,5,70,70,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.60,0:00:03.85,Center,,0,0,0,,食後の眠気 放置は危険
+Dialogue: 0,0:00:03.85,0:00:07.29,Center,,0,0,0,,血糖サイン5つ
+Dialogue: 0,0:00:07.29,0:00:10.40,Center,,0,0,0,,1 昼食後に毎回眠る
+Dialogue: 0,0:00:10.40,0:00:15.79,Center,,0,0,0,,食後高血糖に注意
+Dialogue: 0,0:00:15.79,0:00:18.90,Center,,0,0,0,,2 のどが渇き水を飲む
+Dialogue: 0,0:00:18.90,0:00:24.05,Center,,0,0,0,,口渇 多飲 多尿
+Dialogue: 0,0:00:24.05,0:00:27.95,Center,,0,0,0,,3 食後にぼんやりする
+Dialogue: 0,0:00:27.95,0:00:33.66,Center,,0,0,0,,症状なしで進むことも
+Dialogue: 0,0:00:33.66,0:00:36.87,Center,,0,0,0,,4 目がかすむ 足がじんじん
+Dialogue: 0,0:00:36.87,0:00:42.07,Center,,0,0,0,,目と神経の合併症
+Dialogue: 0,0:00:42.07,0:00:45.92,Center,,0,0,0,,5 甘い飲み物と大盛り主食
+Dialogue: 0,0:00:45.92,0:00:51.08,Center,,0,0,0,,食後の座りっぱなしに注意

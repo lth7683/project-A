@@ -1,0 +1,132 @@
+﻿[
+    {
+        "id":  "thumbnail-intro",
+        "start_sec":  0,
+        "duration_sec":  0.6,
+        "end_sec":  0.6,
+        "narration":  "",
+        "caption":  "",
+        "image":  "assets/thumbnail.png",
+        "image_prompt":  "Use case: ads-marketing. Asset type: 9:16 Japanese YouTube Shorts thumbnail. Primary request: realistic Japanese senior indoors on a hot day looking weak with a water glass nearby, urgent hidden dehydration warning mood. Text verbatim: \"隠れ脱水\" and \"危険サイン5つ\". Style/medium: premium realistic editorial health thumbnail photo. Composition/framing: vertical 9:16, senior face large and clear, bold high-contrast Japanese text in 2 lines, water and heat cue visible, no extra readable text. Lighting/mood: urgent but trustworthy. Constraints: brand-new image, no logos, no watermark, no gore, no reused assets."
+    },
+    {
+        "id":  "scene-01",
+        "narration":  "のどが渇かない脱水、いちばん危険です。本人は平気と言っても、体の中では水分が足りないことがあります。",
+        "caption":  "渇かない脱水が危険",
+        "duration_sec":  9.567,
+        "image":  "assets/images/scene-01.png",
+        "image_prompt":  "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: realistic Japanese senior sitting indoors on a warm day, looking weak but not reaching for water, water glass nearby untouched. Style/medium: premium realistic Japanese public-health awareness photo. Composition/framing: vertical 9:16, clear senior subject, untouched water visible, room for centered captions. Lighting/mood: warm indoor daylight, serious warning. Constraints: brand-new project-specific image, no readable text, no logos, no watermark, no gore, no reused assets.",
+        "start_sec":  0.6,
+        "end_sec":  10.167
+    },
+    {
+        "id":  "scene-02",
+        "narration":  "高齢者の隠れ脱水、危険サイン五つ。",
+        "caption":  "隠れ脱水 危険サイン5つ",
+        "duration_sec":  3.344,
+        "image":  "assets/images/scene-02.png",
+        "image_prompt":  "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese elderly patient and caregiver in a clinic with a doctor discussing hidden dehydration, water bottle and simple hydration diary on desk without readable text. Style/medium: premium realistic medical consultation photo. Composition/framing: vertical 9:16, doctor, senior, caregiver, hydration objects visible, room for captions. Lighting/mood: clean clinic, serious and reassuring. Constraints: brand-new image, no logos, no watermark, no reused assets.",
+        "start_sec":  10.167,
+        "end_sec":  13.51
+    },
+    {
+        "id":  "scene-03",
+        "narration":  "いち、\n朝から尿の色が濃い。",
+        "caption":  "1 朝から尿の色が濃い",
+        "duration_sec":  2.601,
+        "image":  "assets/images/scene-03.png",
+        "image_prompt":  "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese senior in a bathroom doorway in the morning, concerned while holding a small urine test cup with dark amber liquid, no readable markings. Style/medium: realistic public-health photo. Composition/framing: vertical 9:16, morning bathroom context and dark urine cue visible, room for captions. Lighting/mood: serious but not shocking. Constraints: brand-new image, no readable text, no logos, no watermark, no gore, no reused assets.",
+        "start_sec":  13.51,
+        "end_sec":  16.111
+    },
+    {
+        "id":  "scene-04",
+        "narration":  "水分が足りないと、尿が少なく濃くなることがあります。",
+        "caption":  "尿が少なく濃くなる",
+        "duration_sec":  4.365,
+        "image":  "assets/images/scene-04.png",
+        "image_prompt":  "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese doctor explaining dehydration to an elderly patient using a clear water glass and a simple urine color chart on tablet without readable text. Style/medium: realistic medical education photo. Composition/framing: vertical 9:16, doctor, senior, water glass, abstract urine color chart visible, room for captions. Lighting/mood: trustworthy clinic. Constraints: brand-new image, no readable text, no logos, no watermark, no reused assets.",
+        "start_sec":  16.111,
+        "end_sec":  20.476
+    },
+    {
+        "id":  "scene-05",
+        "narration":  "に、\n口の中がねばつき、食欲が落ちる。",
+        "caption":  "2 口がねばつき食欲低下",
+        "duration_sec":  3.483,
+        "image":  "assets/images/scene-05.png",
+        "image_prompt":  "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese elderly woman at a dining table pushing away a meal, touching dry lips or mouth, water cup nearby. Style/medium: realistic health awareness photo. Composition/framing: vertical 9:16, loss of appetite and dry mouth cue visible, room for captions. Lighting/mood: daytime home, cautionary. Constraints: brand-new image, no readable text, no logos, no watermark, no reused assets.",
+        "start_sec":  20.476,
+        "end_sec":  23.959
+    },
+    {
+        "id":  "scene-06",
+        "narration":  "高齢者は渇きを感じにくく、口の乾きが先に出ることがあります。",
+        "caption":  "渇きに気づきにくい",
+        "duration_sec":  5.155,
+        "image":  "assets/images/scene-06.png",
+        "image_prompt":  "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese caregiver gently offering water to an elderly parent who looks unaware of thirst, dry lips visible, living room. Style/medium: realistic public-health photo. Composition/framing: vertical 9:16, caregiver, senior, water glass, dry mouth cue visible, room for captions. Lighting/mood: caring but serious. Constraints: brand-new image, no readable text, no logos, no watermark, no reused assets.",
+        "start_sec":  23.959,
+        "end_sec":  29.114
+    },
+    {
+        "id":  "scene-07",
+        "narration":  "さん、\n立つとふらつき、足が重い。",
+        "caption":  "3 立つとふらつく",
+        "duration_sec":  3.019,
+        "image":  "assets/images/scene-07.png",
+        "image_prompt":  "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese senior standing up from a chair and feeling dizzy, one hand on table for balance, legs heavy, family member nearby concerned. Style/medium: realistic health awareness photo. Composition/framing: vertical 9:16, clear dizziness and fall-risk posture, room for captions. Lighting/mood: serious home setting. Constraints: brand-new image, no fall injury, no gore, no readable text, no logos, no reused assets.",
+        "start_sec":  29.114,
+        "end_sec":  32.133
+    },
+    {
+        "id":  "scene-08",
+        "narration":  "脱水で血液量が減ると、めまいや転倒につながります。立つ前に一呼吸置き、ふらつく日は無理に歩かないでください。",
+        "caption":  "めまいと転倒リスク",
+        "duration_sec":  9.845,
+        "image":  "assets/images/scene-08.png",
+        "image_prompt":  "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese doctor explaining dehydration-related dizziness and fall risk to an elderly couple, cane and water bottle visible. Style/medium: realistic medical consultation photo. Composition/framing: vertical 9:16, doctor, senior couple, cane, water bottle visible, room for captions. Lighting/mood: serious and reassuring. Constraints: brand-new image, no injury scene, no readable text, no logos, no watermark, no reused assets.",
+        "start_sec":  32.133,
+        "end_sec":  41.978
+    },
+    {
+        "id":  "scene-09",
+        "narration":  "よん、\n家の中なのに、体が熱く汗が少ない。",
+        "caption":  "4 室内でも体が熱い",
+        "duration_sec":  4.272,
+        "image":  "assets/images/scene-09.png",
+        "image_prompt":  "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese elderly man indoors in summer, flushed and hot, holding a hand fan, little sweating, thermometer and window sunlight visible. Style/medium: realistic public-health photo. Composition/framing: vertical 9:16, indoor heat cue, flushed face, fan/thermometer visible, room for captions. Lighting/mood: warm, cautionary. Constraints: brand-new image, no readable numbers/text, no logos, no watermark, no reused assets.",
+        "start_sec":  41.978,
+        "end_sec":  46.25
+    },
+    {
+        "id":  "scene-10",
+        "narration":  "熱中症は室内でも起こり、汗が出にくい時は危険です。",
+        "caption":  "室内熱中症に注意",
+        "duration_sec":  4.598,
+        "image":  "assets/images/scene-10.png",
+        "image_prompt":  "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese caregiver checking on an elderly person in a warm room, air conditioner remote, water bottle, and closed curtains visible, indoor heatstroke prevention context. Style/medium: realistic health awareness photo. Composition/framing: vertical 9:16, caregiver, senior, AC remote, water visible, room for captions. Lighting/mood: serious but practical. Constraints: brand-new image, no readable text, no logos, no watermark, no reused assets.",
+        "start_sec":  46.25,
+        "end_sec":  50.848
+    },
+    {
+        "id":  "scene-11",
+        "narration":  "ご、\nぼんやりして、受け答えが遅い。",
+        "caption":  "5 ぼんやり 返事が遅い",
+        "duration_sec":  3.111,
+        "image":  "assets/images/scene-11.png",
+        "image_prompt":  "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese senior sitting dazed in a chair, slow to respond, family member kneeling nearby with worried expression, phone in hand ready to seek help. Style/medium: realistic public-health awareness photo. Composition/framing: vertical 9:16, dazed face and concerned family visible, room for captions. Lighting/mood: urgent but not shocking. Constraints: brand-new image, no readable text, no logos, no gore, no reused assets.",
+        "start_sec":  50.848,
+        "end_sec":  53.959
+    },
+    {
+        "id":  "scene-12",
+        "narration":  "意識がおかしい、立てない時は、すぐ医療につなげてください。",
+        "caption":  "意識異常はすぐ医療へ",
+        "duration_sec":  4.458,
+        "image":  "assets/images/scene-12.png",
+        "image_prompt":  "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese family member calling for medical help while supporting an elderly person who cannot stand, home setting, no panic or injury. Style/medium: realistic emergency-care awareness photo. Composition/framing: vertical 9:16, phone call, supported senior, urgent care-seeking cue visible, room for captions. Lighting/mood: serious, calm urgency. Constraints: brand-new image, no readable text, no logos, no gore, no reused assets.",
+        "start_sec":  53.959,
+        "end_sec":  58.418
+    }
+]

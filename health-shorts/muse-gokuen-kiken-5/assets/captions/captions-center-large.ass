@@ -1,0 +1,24 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Center,MS Gothic,74,&H00FFFFFF,&H000000FF,&H00000000,&H99000000,1,0,0,0,100,100,0,0,1,5,1,5,70,70,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.60,0:00:04.55,Center,,0,0,0,,むせを老化で片づけない
+Dialogue: 0,0:00:04.55,0:00:08.14,Center,,0,0,0,,誤嚥性肺炎のサイン5つ
+Dialogue: 0,0:00:08.14,0:00:11.19,Center,,0,0,0,,1 お茶や味噌汁でむせる
+Dialogue: 0,0:00:11.19,0:00:16.57,Center,,0,0,0,,水分で気づく飲み込み低下
+Dialogue: 0,0:00:16.57,0:00:18.37,Center,,0,0,0,,2 食後の咳が続く
+Dialogue: 0,0:00:18.37,0:00:22.50,Center,,0,0,0,,喉に残る感じに注意
+Dialogue: 0,0:00:22.50,0:00:24.83,Center,,0,0,0,,3 声がガラガラになる
+Dialogue: 0,0:00:24.83,0:00:29.50,Center,,0,0,0,,湿った声はサイン
+Dialogue: 0,0:00:29.50,0:00:33.27,Center,,0,0,0,,4 食事が長く量が減る
+Dialogue: 0,0:00:33.27,0:00:36.14,Center,,0,0,0,,低栄養と体力低下に注意
+Dialogue: 0,0:00:36.14,0:00:44.39,Center,,0,0,0,,5 むせない肺炎にも注意
+Dialogue: 0,0:00:44.39,0:00:50.49,Center,,0,0,0,,急がず小さく 食後は座る
+Dialogue: 0,0:00:50.49,0:00:57.67,Center,,0,0,0,,続くむせ 息苦しさは相談

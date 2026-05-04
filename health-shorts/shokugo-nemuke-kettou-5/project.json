@@ -1,0 +1,42 @@
+{
+  "title": "食後すぐ眠い人、血糖の危険サイン5つ",
+  "slug": "shokugo-nemuke-kettou-5",
+  "language": "ja",
+  "target_duration_sec": 60,
+  "voice_id": "j210dv0vWm7fCknyQpbA",
+  "thumbnail": "assets/thumbnail.png",
+  "thumbnail_intro_sec": 0.6,
+  "title_path": "title.txt",
+  "description_path": "description.md",
+  "render": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "topic_selection": {
+    "chosen_topic": "食後すぐ眠くなる人、見逃せない血糖サイン5つ",
+    "reason": "Japanese seniors can easily self-recognize post-meal sleepiness, thirst, urination, blurred vision, and meal patterns; the topic differs from prior blood pressure, aspiration, and nocturia videos.",
+    "chosen_at": "2026-05-03"
+  },
+  "duplicate_check": {
+    "candidate": "食後すぐ眠くなる人、見逃せない血糖サイン5つ",
+    "duplicate_risk": false,
+    "checked_at": "2026-05-03",
+    "tool": "health-shorts/scripts/topic_audit.py"
+  },
+  "status": {
+    "script": "complete",
+    "sources": "complete",
+    "scenes": "complete_segment_timed",
+    "captions": "complete_center_ass_and_srt_segment_synced",
+    "tts": "complete_elevenlabs_segmented_synced_hiragana_number_pauses",
+    "images": "complete_fresh_imagegen_project_bound_visual_match_verified",
+    "render": "complete_final_mp4"
+  },
+  "translation_ko_path": "translation-ko.md",
+  "actual_duration_sec": 51.08,
+  "sync_method": "scene-by-scene ElevenLabs TTS measured with ffprobe; numbered items use hiragana spoken numbers with line breaks for natural pauses",
+  "visual_match": "verified_scene_images_match_narration_contact_sheet",
+  "final_qc": "pass",
+  "final_qc_path": "final-qc.md"
+}

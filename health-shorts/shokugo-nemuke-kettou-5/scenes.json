@@ -1,0 +1,132 @@
+[
+  {
+    "id": "thumbnail-intro",
+    "start_sec": 0.0,
+    "duration_sec": 0.6,
+    "end_sec": 0.6,
+    "narration": "",
+    "caption": "",
+    "image": "assets/thumbnail.png",
+    "image_prompt": "Use case: ads-marketing. Asset type: 9:16 Japanese YouTube Shorts thumbnail. Primary request: realistic Japanese senior dozing at a lunch table with a glucose meter nearby, urgent blood sugar warning mood. Text verbatim: \"食後すぐ眠い\" and \"血糖サイン5つ\". Style/medium: premium realistic editorial health thumbnail photo. Composition/framing: vertical 9:16, senior face large and clear, bold high-contrast Japanese text in 2 lines, glucose cue visible, no extra readable text. Lighting/mood: urgent but trustworthy. Constraints: brand-new image, no logos, no watermark, no gore, no reused assets."
+  },
+  {
+    "id": "scene-01",
+    "narration": "食後すぐ眠くなる人、放置は危険です。",
+    "caption": "食後の眠気 放置は危険",
+    "duration_sec": 3.251,
+    "image": "assets/images/scene-01.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: a realistic Japanese senior man becoming very sleepy immediately after lunch at a dining table, head drooping, half-finished meal visible. Style/medium: premium realistic Japanese public-health awareness photo. Composition/framing: vertical 9:16, clear sleepy face and lunch table, room for centered captions. Lighting/mood: daytime home, serious warning. Constraints: brand-new project-specific image, no readable text, no logos, no watermark, no gore, no reused assets.",
+    "start_sec": 0.6,
+    "end_sec": 3.851
+  },
+  {
+    "id": "scene-02",
+    "narration": "高齢者が見逃しやすい、血糖サイン五つ。",
+    "caption": "血糖サイン5つ",
+    "duration_sec": 3.437,
+    "image": "assets/images/scene-02.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese elderly patient in a clinic with a doctor reviewing a glucose meter and simple meal diary, emphasizing five blood sugar warning signs. Style/medium: premium realistic medical consultation photo. Composition/framing: vertical 9:16, doctor, senior, glucose meter, diary visible, no readable text, room for captions. Lighting/mood: clean clinic, serious and reassuring. Constraints: brand-new image, no logos, no watermark, no reused assets.",
+    "start_sec": 3.851,
+    "end_sec": 7.287
+  },
+  {
+    "id": "scene-03",
+    "narration": "いち、\n昼食後に毎回、眠り込む。",
+    "caption": "1 昼食後に毎回眠る",
+    "duration_sec": 3.111,
+    "image": "assets/images/scene-03.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese senior woman asleep in a chair right after lunch, rice bowl and tea cup on the table, family member concerned. Style/medium: realistic public-health photo. Composition/framing: vertical 9:16, exact action of falling asleep after lunch visible, room for centered captions. Lighting/mood: daytime home, cautionary. Constraints: brand-new image, no readable text, no logos, no watermark, no reused assets.",
+    "start_sec": 7.287,
+    "end_sec": 10.399
+  },
+  {
+    "id": "scene-04",
+    "narration": "食後高血糖は、食べた後もしばらく血糖が高い状態です。",
+    "caption": "食後高血糖に注意",
+    "duration_sec": 5.387,
+    "image": "assets/images/scene-04.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese doctor explaining post-meal high blood sugar to an elderly patient using a glucose meter and abstract chart on a tablet with no readable text. Style/medium: realistic medical education photo. Composition/framing: vertical 9:16, glucose meter and tablet chart visible, doctor and senior clear, room for captions. Lighting/mood: trustworthy clinic. Constraints: brand-new image, no readable text, no logos, no watermark, no reused assets.",
+    "start_sec": 10.399,
+    "end_sec": 15.786
+  },
+  {
+    "id": "scene-05",
+    "narration": "に、\nのどが渇いて、水を何度も飲む。",
+    "caption": "2 のどが渇き水を飲む",
+    "duration_sec": 3.111,
+    "image": "assets/images/scene-05.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese elderly man repeatedly drinking water at home with several water glasses on a table, expression of strong thirst. Style/medium: realistic health awareness photo. Composition/framing: vertical 9:16, thirst and multiple glasses clearly visible, room for captions. Lighting/mood: serious, natural daylight. Constraints: brand-new image, no readable text, no logos, no watermark, no reused assets.",
+    "start_sec": 15.786,
+    "end_sec": 18.897
+  },
+  {
+    "id": "scene-06",
+    "narration": "高血糖が続くと、口渇、多飲、多尿が出ることがあります。",
+    "caption": "口渇 多飲 多尿",
+    "duration_sec": 5.155,
+    "image": "assets/images/scene-06.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese senior at night walking from table with water glass toward a bathroom door, showing thirst and frequent urination context without exaggeration. Style/medium: realistic public-health photo. Composition/framing: vertical 9:16, water glass and bathroom doorway visible, room for captions. Lighting/mood: serious home health cue. Constraints: brand-new image, no readable text, no logos, no watermark, no reused assets.",
+    "start_sec": 18.897,
+    "end_sec": 24.052
+  },
+  {
+    "id": "scene-07",
+    "narration": "さん、\n食後にぼんやりして、横になりたくなる。",
+    "caption": "3 食後にぼんやりする",
+    "duration_sec": 3.901,
+    "image": "assets/images/scene-07.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese senior woman after a meal sitting on a sofa looking dazed and wanting to lie down, lunch tray nearby. Style/medium: realistic health awareness photo. Composition/framing: vertical 9:16, dazed expression and post-meal setting visible, room for captions. Lighting/mood: quiet daytime, cautionary. Constraints: brand-new image, no readable text, no logos, no watermark, no reused assets.",
+    "start_sec": 24.052,
+    "end_sec": 27.953
+  },
+  {
+    "id": "scene-08",
+    "narration": "糖尿病は症状がないまま進むこともあり、疲れやすさだけで見逃されます。",
+    "caption": "症状なしで進むことも",
+    "duration_sec": 5.712,
+    "image": "assets/images/scene-08.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese clinician gently talking with a tired elderly patient and caregiver, showing fatigue may hide diabetes, simple checkup scene with glucose meter. Style/medium: realistic medical consultation photo. Composition/framing: vertical 9:16, tired senior, caregiver, clinician, glucose meter visible, no readable text, room for captions. Lighting/mood: calm, serious, trustworthy. Constraints: brand-new image, no logos, no watermark, no reused assets.",
+    "start_sec": 27.953,
+    "end_sec": 33.665
+  },
+  {
+    "id": "scene-09",
+    "narration": "よん、\n目がかすむ、足がじんじんする。",
+    "caption": "4 目がかすむ 足がじんじん",
+    "duration_sec": 3.204,
+    "image": "assets/images/scene-09.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese elderly man holding reading glasses and rubbing one foot with discomfort, newspaper on table blurred-looking but no readable text. Style/medium: realistic health awareness photo. Composition/framing: vertical 9:16, eye strain and foot tingling cues both visible, room for captions. Lighting/mood: serious home setting. Constraints: brand-new image, no readable text, no logos, no watermark, no reused assets.",
+    "start_sec": 33.665,
+    "end_sec": 36.87
+  },
+  {
+    "id": "scene-10",
+    "narration": "血糖が高い状態が続くと、目や神経の合併症につながります。",
+    "caption": "目と神経の合併症",
+    "duration_sec": 5.201,
+    "image": "assets/images/scene-10.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese doctor checking an elderly patient's foot sensation and eye health discussion in clinic, diabetes complication context, no scary imagery. Style/medium: realistic medical education photo. Composition/framing: vertical 9:16, clinician, senior foot check, eye chart-like abstract poster without readable text, room for captions. Lighting/mood: clinical, serious, reassuring. Constraints: brand-new image, no readable text, no logos, no watermark, no gore, no reused assets.",
+    "start_sec": 36.87,
+    "end_sec": 42.071
+  },
+  {
+    "id": "scene-11",
+    "narration": "ご、\n甘い飲み物と大盛り主食が続く。",
+    "caption": "5 甘い飲み物と大盛り主食",
+    "duration_sec": 3.855,
+    "image": "assets/images/scene-11.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese senior at lunch with a large bowl of rice or noodles and a sweet bottled drink, looking unaware, meal imbalance clearly visible. Style/medium: realistic public-health photo. Composition/framing: vertical 9:16, large staple food and sweet drink visible, senior present, room for captions. Lighting/mood: cautionary everyday meal. Constraints: brand-new image, no readable labels, no logos, no watermark, no reused assets.",
+    "start_sec": 42.071,
+    "end_sec": 45.925
+  },
+  {
+    "id": "scene-12",
+    "narration": "食事の偏りと食後の座りっぱなしは、血糖の乱れを強めます。",
+    "caption": "食後の座りっぱなしに注意",
+    "duration_sec": 5.155,
+    "image": "assets/images/scene-12.png",
+    "image_prompt": "Use case: scientific-educational. Asset type: 9:16 health Shorts scene. Primary request: Japanese elderly couple after lunch, one remains sitting on sofa while a meal diary and glucose meter are on the table, suggesting meal imbalance and sitting still after meals. Style/medium: realistic health awareness photo. Composition/framing: vertical 9:16, seated post-meal behavior plus glucose meter/diary visible, room for captions. Lighting/mood: practical and cautionary. Constraints: brand-new image, no readable text, no logos, no watermark, no reused assets.",
+    "start_sec": 45.925,
+    "end_sec": 51.08
+  }
+]

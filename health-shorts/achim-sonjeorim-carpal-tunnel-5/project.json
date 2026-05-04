@@ -1,0 +1,50 @@
+{
+  "title": "아침 손저림이 알려주는 손목터널증후군 경고 신호와 병원 가야 하는 기준",
+  "slug": "achim-sonjeorim-carpal-tunnel-5",
+  "topic": "아침 손저림이 알려주는 손목터널증후군 경고 신호와 병원 가야 하는 기준",
+  "language": "ko",
+  "audience": "Korean adults with morning or nighttime hand numbness",
+  "target_duration_sec": 60,
+  "actual_audio_duration_sec": 60.0,
+  "raw_elevenlabs_duration_sec": 74.104,
+  "audio_speed_adjustment": "segmented ElevenLabs scene audio scaled with atempo=1.235060 to fit 60 seconds",
+  "final_duration_sec": 60.0,
+  "duplicate_check": {
+    "candidate": "아침 손저림이 알려주는 손목터널증후군 경고 신호와 병원 가야 하는 기준",
+    "duplicate_risk": false,
+    "checked_at": "2026-05-04",
+    "tool": "health-shorts/scripts/topic_audit.py"
+  },
+  "voice_id": "3MTvEr8xCMCC2mL9ujrI",
+  "tts_note": "Rendered with ElevenLabs voice 3MTvEr8xCMCC2mL9ujrI. API key was used only as a process-local environment variable.",
+  "assets": {
+    "audio": "assets/audio/narration.mp3",
+    "captions": "assets/captions/captions-center-large.ass",
+    "images": "assets/images/scene-01.png through scene-15.png",
+    "imagegen_contact_sheet": "assets/images/contact-sheet-imagegen-15.png",
+    "render": "renders/final.mp4",
+    "audio_segments": "assets/audio/segments_synced/"
+  },
+  "sources": [
+    "https://orthoinfo.aaos.org/en/diseases--conditions/carpal-tunnel-syndrome/",
+    "https://medlineplus.gov/carpaltunnelsyndrome.html",
+    "https://www.mayoclinic.org/diseases-conditions/pinched-nerve/symptoms-causes/syc-20354746",
+    "https://www.ncbi.nlm.nih.gov/books/NBK448179/"
+  ],
+  "status": {
+    "script": "complete",
+    "sources": "complete",
+    "scenes": "complete",
+    "captions": "complete_center_ass_and_srt_segment_synced_font_82",
+    "tts": "complete_elevenlabs_segmented_synced_speed_adjusted_60s",
+    "images": "complete_15_imagegen_scene_matched_project_bound",
+    "render": "complete_final_mp4_segment_synced_font_82"
+  },
+  "render": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "caption_font_size": 82,
+  "sync_method": "scene-by-scene ElevenLabs TTS; ffprobe-measured segment durations scaled into scenes.json before ASS/SRT regeneration"
+}

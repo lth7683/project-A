@@ -1,0 +1,24 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: SeniorCenter,Yu Gothic,136,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,1,0,0,0,100,100,0,0,1,11,3,5,48,48,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.60,0:00:01.99,SeniorCenter,,0,0,0,,知らないと危険
+Dialogue: 0,0:00:01.99,0:00:05.48,SeniorCenter,,0,0,0,,朝に血圧を上げ\Nる最悪習慣7つ
+Dialogue: 0,0:00:05.48,0:00:12.35,SeniorCenter,,0,0,0,,1 起きてすぐ熱い風呂
+Dialogue: 0,0:00:12.35,0:00:19.96,SeniorCenter,,0,0,0,,2 濃い味噌汁と漬物
+Dialogue: 0,0:00:19.96,0:00:22.24,SeniorCenter,,0,0,0,,3 薬を自己判断で抜く
+Dialogue: 0,0:00:22.24,0:00:27.26,SeniorCenter,,0,0,0,,降圧薬を抜く判断は危険
+Dialogue: 0,0:00:27.26,0:00:32.69,SeniorCenter,,0,0,0,,4 測らずに外へ出る
+Dialogue: 0,0:00:32.69,0:00:34.59,SeniorCenter,,0,0,0,,家庭血圧で見つける
+Dialogue: 0,0:00:34.59,0:00:41.37,SeniorCenter,,0,0,0,,5 起き抜けにタバコ
+Dialogue: 0,0:00:41.37,0:00:46.30,SeniorCenter,,0,0,0,,6 息を止めて力む運動
+Dialogue: 0,0:00:46.30,0:00:48.94,SeniorCenter,,0,0,0,,散歩も軽く始める
+Dialogue: 0,0:00:48.94,0:00:57.87,SeniorCenter,,0,0,0,,7 寝不足で無理に動く

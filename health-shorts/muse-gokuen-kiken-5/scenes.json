@@ -1,0 +1,142 @@
+[
+  {
+    "id": "thumbnail-intro",
+    "start_sec": 0.0,
+    "duration_sec": 0.6,
+    "end_sec": 0.6,
+    "narration": "",
+    "caption": "",
+    "image": "assets/thumbnail.png",
+    "image_prompt": "Project thumbnail with bold Japanese hook text."
+  },
+  {
+    "id": "scene-01",
+    "start_sec": 0.6,
+    "duration_sec": 3.949,
+    "end_sec": 4.549,
+    "narration": "食事中のむせ、ただの老化だと思うと危険です。",
+    "caption": "むせを老化で片づけない",
+    "image": "assets/images/scene-01.png",
+    "image_prompt": "Use case: Japanese senior health Shorts educational scene\nAsset type: realistic 9:16 vertical human photo\nPrimary request: elderly Japanese man coughing lightly at dining table while spouse looks worried\nStyle/medium: premium realistic Japanese public-health awareness photo\nComposition/framing: vertical 9:16, clear Japanese senior or clinician, room for centered captions\nLighting/mood: serious, trustworthy, warm clinic or home lighting\nConstraints: no readable text, no logos, no watermark, no gore, no shock imagery"
+  },
+  {
+    "id": "scene-02",
+    "start_sec": 4.549,
+    "duration_sec": 3.59,
+    "end_sec": 8.139,
+    "narration": "高齢者で増える、誤嚥性肺炎のサイン5つ。",
+    "caption": "誤嚥性肺炎のサイン5つ",
+    "image": "assets/images/scene-02.png",
+    "image_prompt": "Use case: Japanese senior health Shorts educational scene\nAsset type: realistic 9:16 vertical human photo\nPrimary request: Japanese senior couple in a bright clinic listening to a doctor, serious public health mood\nStyle/medium: premium realistic Japanese public-health awareness photo\nComposition/framing: vertical 9:16, clear Japanese senior or clinician, room for centered captions\nLighting/mood: serious, trustworthy, warm clinic or home lighting\nConstraints: no readable text, no logos, no watermark, no gore, no shock imagery"
+  },
+  {
+    "id": "scene-03",
+    "start_sec": 8.139,
+    "duration_sec": 3.051,
+    "end_sec": 11.19,
+    "narration": "1 お茶や味噌汁で、前よりむせる。",
+    "caption": "1 お茶や味噌汁でむせる",
+    "image": "assets/images/scene-03.png",
+    "image_prompt": "Use case: Japanese senior health Shorts educational scene\nAsset type: realistic 9:16 vertical human photo\nPrimary request: Japanese senior woman coughing after sipping tea at a home table\nStyle/medium: premium realistic Japanese public-health awareness photo\nComposition/framing: vertical 9:16, clear Japanese senior or clinician, room for centered captions\nLighting/mood: serious, trustworthy, warm clinic or home lighting\nConstraints: no readable text, no logos, no watermark, no gore, no shock imagery"
+  },
+  {
+    "id": "scene-04",
+    "start_sec": 11.19,
+    "duration_sec": 5.384,
+    "end_sec": 16.574,
+    "narration": "水分は気管に入りやすく、飲み込みの力の低下に気づく合図です。",
+    "caption": "水分で気づく飲み込み低下",
+    "image": "assets/images/scene-04.png",
+    "image_prompt": "Use case: Japanese senior health Shorts educational scene\nAsset type: realistic 9:16 vertical human photo\nPrimary request: Japanese clinician showing a swallow diagram to an older patient, no readable text\nStyle/medium: premium realistic Japanese public-health awareness photo\nComposition/framing: vertical 9:16, clear Japanese senior or clinician, room for centered captions\nLighting/mood: serious, trustworthy, warm clinic or home lighting\nConstraints: no readable text, no logos, no watermark, no gore, no shock imagery"
+  },
+  {
+    "id": "scene-05",
+    "start_sec": 16.574,
+    "duration_sec": 1.795,
+    "end_sec": 18.369,
+    "narration": "2 食後に咳が続く。",
+    "caption": "2 食後の咳が続く",
+    "image": "assets/images/scene-05.png",
+    "image_prompt": "Use case: Japanese senior health Shorts educational scene\nAsset type: realistic 9:16 vertical human photo\nPrimary request: Japanese elderly man covering mouth after meal, family member concerned\nStyle/medium: premium realistic Japanese public-health awareness photo\nComposition/framing: vertical 9:16, clear Japanese senior or clinician, room for centered captions\nLighting/mood: serious, trustworthy, warm clinic or home lighting\nConstraints: no readable text, no logos, no watermark, no gore, no shock imagery"
+  },
+  {
+    "id": "scene-06",
+    "start_sec": 18.369,
+    "duration_sec": 4.128,
+    "end_sec": 22.497,
+    "narration": "食べ物や唾液が喉に残っている可能性があります。",
+    "caption": "喉に残る感じに注意",
+    "image": "assets/images/scene-06.png",
+    "image_prompt": "Use case: Japanese senior health Shorts educational scene\nAsset type: realistic 9:16 vertical human photo\nPrimary request: Japanese senior touching throat after eating, calm home dining room\nStyle/medium: premium realistic Japanese public-health awareness photo\nComposition/framing: vertical 9:16, clear Japanese senior or clinician, room for centered captions\nLighting/mood: serious, trustworthy, warm clinic or home lighting\nConstraints: no readable text, no logos, no watermark, no gore, no shock imagery"
+  },
+  {
+    "id": "scene-07",
+    "start_sec": 22.497,
+    "duration_sec": 2.333,
+    "end_sec": 24.83,
+    "narration": "3 声がガラガラに変わる。",
+    "caption": "3 声がガラガラになる",
+    "image": "assets/images/scene-07.png",
+    "image_prompt": "Use case: Japanese senior health Shorts educational scene\nAsset type: realistic 9:16 vertical human photo\nPrimary request: Japanese older woman speaking after a meal with worried expression, caregiver nearby\nStyle/medium: premium realistic Japanese public-health awareness photo\nComposition/framing: vertical 9:16, clear Japanese senior or clinician, room for centered captions\nLighting/mood: serious, trustworthy, warm clinic or home lighting\nConstraints: no readable text, no logos, no watermark, no gore, no shock imagery"
+  },
+  {
+    "id": "scene-08",
+    "start_sec": 24.83,
+    "duration_sec": 4.666,
+    "end_sec": 29.496,
+    "narration": "飲み込んだ後の湿った声は、喉に残りがあるサインです。",
+    "caption": "湿った声はサイン",
+    "image": "assets/images/scene-08.png",
+    "image_prompt": "Use case: Japanese senior health Shorts educational scene\nAsset type: realistic 9:16 vertical human photo\nPrimary request: speech therapist gently checking swallowing of Japanese senior in clinic\nStyle/medium: premium realistic Japanese public-health awareness photo\nComposition/framing: vertical 9:16, clear Japanese senior or clinician, room for centered captions\nLighting/mood: serious, trustworthy, warm clinic or home lighting\nConstraints: no readable text, no logos, no watermark, no gore, no shock imagery"
+  },
+  {
+    "id": "scene-09",
+    "start_sec": 29.496,
+    "duration_sec": 3.769,
+    "end_sec": 33.265,
+    "narration": "4 食事の時間が長くなり、食べる量が減る。",
+    "caption": "4 食事が長く量が減る",
+    "image": "assets/images/scene-09.png",
+    "image_prompt": "Use case: Japanese senior health Shorts educational scene\nAsset type: realistic 9:16 vertical human photo\nPrimary request: half-finished Japanese meal tray in front of an older adult, family watching carefully\nStyle/medium: premium realistic Japanese public-health awareness photo\nComposition/framing: vertical 9:16, clear Japanese senior or clinician, room for centered captions\nLighting/mood: serious, trustworthy, warm clinic or home lighting\nConstraints: no readable text, no logos, no watermark, no gore, no shock imagery"
+  },
+  {
+    "id": "scene-10",
+    "start_sec": 33.265,
+    "duration_sec": 2.872,
+    "end_sec": 36.137,
+    "narration": "低栄養や体力低下につながります。",
+    "caption": "低栄養と体力低下に注意",
+    "image": "assets/images/scene-10.png",
+    "image_prompt": "Use case: Japanese senior health Shorts educational scene\nAsset type: realistic 9:16 vertical human photo\nPrimary request: Japanese senior walking slowly with caregiver support, realistic public health scene\nStyle/medium: premium realistic Japanese public-health awareness photo\nComposition/framing: vertical 9:16, clear Japanese senior or clinician, room for centered captions\nLighting/mood: serious, trustworthy, warm clinic or home lighting\nConstraints: no readable text, no logos, no watermark, no gore, no shock imagery"
+  },
+  {
+    "id": "scene-11",
+    "start_sec": 36.137,
+    "duration_sec": 8.256,
+    "end_sec": 44.393,
+    "narration": "5 むせないのに、発熱やだるさを繰り返す。重い嚥下障害では、むしろむせにくいことがあります。",
+    "caption": "5 むせない肺炎にも注意",
+    "image": "assets/images/scene-11.png",
+    "image_prompt": "Use case: Japanese senior health Shorts educational scene\nAsset type: realistic 9:16 vertical human photo\nPrimary request: Japanese elderly patient resting with thermometer while caregiver calls clinic\nStyle/medium: premium realistic Japanese public-health awareness photo\nComposition/framing: vertical 9:16, clear Japanese senior or clinician, room for centered captions\nLighting/mood: serious, trustworthy, warm clinic or home lighting\nConstraints: no readable text, no logos, no watermark, no gore, no shock imagery"
+  },
+  {
+    "id": "scene-12",
+    "start_sec": 44.393,
+    "duration_sec": 6.102,
+    "end_sec": 50.495,
+    "narration": "今日から、急いで食べない。一口を小さくする。食後はすぐ横にならない。",
+    "caption": "急がず小さく 食後は座る",
+    "image": "assets/images/scene-12.png",
+    "image_prompt": "Use case: Japanese senior health Shorts educational scene\nAsset type: realistic 9:16 vertical human photo\nPrimary request: Japanese senior eating slowly with small bites, upright posture at table\nStyle/medium: premium realistic Japanese public-health awareness photo\nComposition/framing: vertical 9:16, clear Japanese senior or clinician, room for centered captions\nLighting/mood: serious, trustworthy, warm clinic or home lighting\nConstraints: no readable text, no logos, no watermark, no gore, no shock imagery"
+  },
+  {
+    "id": "scene-13",
+    "start_sec": 50.495,
+    "duration_sec": 7.179,
+    "end_sec": 57.674,
+    "narration": "むせが続く、肺炎を繰り返す、急に息苦しい。これは歯科や医師、救急相談の目安です。",
+    "caption": "続くむせ 息苦しさは相談",
+    "image": "assets/images/scene-13.png",
+    "image_prompt": "Use case: Japanese senior health Shorts educational scene\nAsset type: realistic 9:16 vertical human photo\nPrimary request: Japanese doctor consulting an older patient and family in clinic, reassuring but serious\nStyle/medium: premium realistic Japanese public-health awareness photo\nComposition/framing: vertical 9:16, clear Japanese senior or clinician, room for centered captions\nLighting/mood: serious, trustworthy, warm clinic or home lighting\nConstraints: no readable text, no logos, no watermark, no gore, no shock imagery"
+  }
+]

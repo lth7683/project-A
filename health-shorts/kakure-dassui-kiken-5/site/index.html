@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>高齢者の隠れ脱水、危険サイン5つ</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #1f2933;
+      --muted: #5b6773;
+      --line: #d7dee6;
+      --soft: #f5f7fa;
+      --accent: #0f766e;
+      --warn: #b45309;
+      --jp: #17324d;
+      --ko: #34495e;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", "Noto Sans JP", "Noto Sans KR", Arial, sans-serif;
+      color: var(--ink);
+      background: #ffffff;
+      line-height: 1.6;
+    }
+    header, main {
+      width: min(1120px, calc(100% - 32px));
+      margin: 0 auto;
+    }
+    header {
+      padding: 28px 0 18px;
+      border-bottom: 1px solid var(--line);
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: clamp(24px, 4vw, 42px);
+      line-height: 1.15;
+      letter-spacing: 0;
+    }
+    .meta {
+      margin: 0;
+      color: var(--muted);
+      font-size: 15px;
+    }
+    main {
+      display: grid;
+      gap: 28px;
+      padding: 28px 0 48px;
+    }
+    section {
+      padding-top: 4px;
+    }
+    h2 {
+      margin: 0 0 12px;
+      font-size: 22px;
+      line-height: 1.25;
+      letter-spacing: 0;
+    }
+    .viewer {
+      display: grid;
+      grid-template-columns: minmax(280px, 410px) minmax(320px, 1fr);
+      gap: 24px;
+      align-items: start;
+    }
+    video, img {
+      max-width: 100%;
+      border: 1px solid var(--line);
+      background: #000;
+      display: block;
+    }
+    video {
+      width: 100%;
+      aspect-ratio: 9 / 16;
+    }
+    .thumb-grid {
+      display: grid;
+      grid-template-columns: minmax(180px, 280px) 1fr;
+      gap: 18px;
+      align-items: start;
+    }
+    .status {
+      display: grid;
+      gap: 8px;
+      padding: 14px 16px;
+      background: var(--soft);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      font-size: 15px;
+    }
+    .status b { color: var(--accent); }
+    .side {
+      display: grid;
+      gap: 14px;
+    }
+    .bilingual {
+      max-height: 690px;
+      overflow: auto;
+      padding: 14px 16px;
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+    }
+    .pair {
+      padding: 10px 0;
+      border-bottom: 1px solid var(--line);
+    }
+    .pair:last-child { border-bottom: 0; }
+    .jp, .ko {
+      margin: 0;
+      font-size: 15px;
+      line-height: 1.55;
+      word-break: keep-all;
+      overflow-wrap: anywhere;
+    }
+    .jp {
+      color: var(--jp);
+      font-weight: 700;
+    }
+    .ko {
+      color: var(--ko);
+      margin-top: 3px;
+    }
+    pre {
+      white-space: pre-wrap;
+      word-break: keep-all;
+      overflow-wrap: anywhere;
+      margin: 0;
+      padding: 16px;
+      background: var(--soft);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      font-family: inherit;
+      font-size: 15px;
+    }
+    .links {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 10px;
+    }
+    a {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    a:hover { text-decoration: underline; }
+    .links a {
+      padding: 10px 12px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+    }
+    .note {
+      color: var(--warn);
+      font-weight: 600;
+    }
+    @media (max-width: 800px) {
+      .viewer, .thumb-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>高齢者の隠れ脱水、危険サイン5つ</h1>
+    <p class="meta">Japanese senior health Shorts package · final QC pass · duration 58.4s</p>
+  </header>
+  <main>
+    <section class="viewer">
+      <video controls playsinline poster="../assets/thumbnail.png">
+        <source src="../renders/final.mp4" type="video/mp4">
+      </video>
+      <div class="side">
+        <div class="status">
+          <div><b>완료 상태:</b> 최종 MP4 재렌더 완료</div>
+          <div><b>길이:</b> 58.4초, 1분에 근접</div>
+          <div><b>싱크:</b> 장면별 ElevenLabs TTS를 ffprobe로 측정해 적용</div>
+          <div><b>이미지:</b> 신규 생성 이미지 유지, 확장 대본도 장면 내용 안에서만 추가</div>
+          <div><b>QC:</b> pass · <a href="../final-qc.md">final-qc.md</a></div>
+          <div><b>최종 영상:</b> <a href="../renders/final.mp4">renders/final.mp4</a></div>
+        </div>
+        <div class="bilingual" aria-label="대본과 해석">
+          <h2>대본 / 해석</h2>
+          <div class="pair"><p class="jp">のどが渇かない脱水、いちばん危険です。本人は平気と言っても、体の中では水分が足りないことがあります。</p><p class="ko">목이 마르지 않는 탈수가 가장 위험합니다. 본인이 괜찮다고 해도 몸속에서는 수분이 부족할 수 있습니다.</p></div>
+          <div class="pair"><p class="jp">高齢者の隠れ脱水、危険サイン五つ。</p><p class="ko">고령자의 숨은 탈수, 위험 신호 다섯 가지입니다.</p></div>
+          <div class="pair"><p class="jp">いち、朝から尿の色が濃い。</p><p class="ko">첫째, 아침부터 소변 색이 진합니다.</p></div>
+          <div class="pair"><p class="jp">水分が足りないと、尿が少なく濃くなることがあります。</p><p class="ko">수분이 부족하면 소변 양이 줄고 색이 진해질 수 있습니다.</p></div>
+          <div class="pair"><p class="jp">に、口の中がねばつき、食欲が落ちる。</p><p class="ko">둘째, 입안이 끈적하고 식욕이 떨어집니다.</p></div>
+          <div class="pair"><p class="jp">高齢者は渇きを感じにくく、口の乾きが先に出ることがあります。</p><p class="ko">고령자는 갈증을 잘 느끼지 못해 입마름이 먼저 나타날 수 있습니다.</p></div>
+          <div class="pair"><p class="jp">さん、立つとふらつき、足が重い。</p><p class="ko">셋째, 일어서면 휘청거리고 다리가 무겁습니다.</p></div>
+          <div class="pair"><p class="jp">脱水で血液量が減ると、めまいや転倒につながります。立つ前に一呼吸置き、ふらつく日は無理に歩かないでください。</p><p class="ko">탈수로 혈액량이 줄면 어지럼과 낙상으로 이어질 수 있습니다. 일어서기 전 잠깐 쉬고, 어지러운 날은 무리해서 걷지 마세요.</p></div>
+          <div class="pair"><p class="jp">よん、家の中なのに、体が熱く汗が少ない。</p><p class="ko">넷째, 집 안인데도 몸이 뜨겁고 땀이 적습니다.</p></div>
+          <div class="pair"><p class="jp">熱中症は室内でも起こり、汗が出にくい時は危険です。</p><p class="ko">열중증은 실내에서도 생기며, 땀이 잘 나지 않으면 위험합니다.</p></div>
+          <div class="pair"><p class="jp">ご、ぼんやりして、受け答えが遅い。</p><p class="ko">다섯째, 멍해지고 대답이 느려집니다.</p></div>
+          <div class="pair"><p class="jp">意識がおかしい、立てない時は、すぐ医療につなげてください。</p><p class="ko">의식이 이상하거나 서 있지 못하면 즉시 의료 도움을 받아야 합니다.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>썸네일 / 이미지 검수</h2>
+      <div class="thumb-grid">
+        <a href="../assets/thumbnail.png"><img src="../assets/thumbnail.png" alt="thumbnail"></a>
+        <a href="../assets/images/contact-sheet.png"><img src="../assets/images/contact-sheet.png" alt="contact sheet"></a>
+      </div>
+    </section>
+
+    <section>
+      <h2>영상 제목</h2>
+      <pre>高齢者の隠れ脱水、危険サイン5つ</pre>
+    </section>
+
+    <section>
+      <h2>업로드 설명문</h2>
+      <pre>のどが渇いていなくても、高齢者は脱水に気づきにくいことがあります。
+家の中でも見逃しやすい隠れ脱水の危険サインを5つに絞って解説します。
+
+この動画は一般的な健康情報です。意識がぼんやりする、立てない、強いめまい、汗が出ない、尿が極端に少ない、体調が急に悪い場合は、早めに医療機関や救急相談を利用してください。心臓・腎臓の病気で水分制限がある人は、自己判断で水分量を増やさず医師に相談してください。
+
+#健康雑学 #シニア健康 #隠れ脱水 #脱水症 #熱中症対策 #高齢者ケア #水分補給 #夏の健康</pre>
+    </section>
+
+    <section>
+      <h2>내용 해석</h2>
+      <pre># 내용 해석
+
+## 제목
+
+고령자의 숨은 탈수, 위험 신호 5가지
+
+## 영상 내용
+
+목이 마르지 않아도 탈수일 수 있고, 고령자는 갈증을 느끼기 어려워 더 위험할 수 있다는 내용입니다. 본인이 괜찮다고 해도 몸속에서는 수분이 부족할 수 있다는 경고입니다.
+
+1. 아침부터 소변 색이 진하다.  
+수분이 부족하면 소변 양이 줄고 색이 진해질 수 있습니다.
+
+2. 입안이 끈적하고 식욕이 떨어진다.  
+고령자는 갈증을 잘 느끼지 못해 입마름이 먼저 나타날 수 있습니다.
+
+3. 일어서면 어지럽고 다리가 무겁다.  
+탈수로 혈액량이 줄면 어지럼과 낙상 위험으로 이어질 수 있습니다.
+
+4. 집 안인데도 몸이 뜨겁고 땀이 적다.  
+열중증은 실내에서도 생길 수 있고, 땀이 잘 나지 않으면 위험 신호일 수 있습니다.
+
+5. 멍해지고 대답이 느려진다.  
+의식이 이상하거나 서 있지 못할 때는 즉시 의료 도움을 받아야 합니다.
+
+## 주의
+
+심장이나 신장 질환으로 수분 제한이 있는 사람은 스스로 물을 많이 늘리지 말고 의사와 상담해야 합니다.</pre>
+    </section>
+
+    <section>
+      <h2>제작 파일</h2>
+      <div class="links">
+        <a href="../renders/final.mp4">Final MP4</a>
+        <a href="../assets/thumbnail.png">Thumbnail</a>
+        <a href="../assets/images/contact-sheet.png">Contact Sheet</a>
+        <a href="../script.md">Script</a>
+        <a href="../narration.md">Narration</a>
+        <a href="../translation-ko.md">Translation KO</a>
+        <a href="../bilingual-script.md">Bilingual Script</a>
+        <a href="../title.txt">Title</a>
+        <a href="../description.md">Description</a>
+        <a href="../scenes.json">Scenes JSON</a>
+        <a href="../image-prompts.md">Image Prompts</a>
+        <a href="../sources.md">Sources</a>
+        <a href="../assets/audio/narration.mp3">Final Audio</a>
+        <a href="../assets/audio/segments/">Segment Audio</a>
+        <a href="../assets/captions/captions.srt">Captions SRT</a>
+        <a href="../assets/captions/captions-center-large.ass">Captions ASS</a>
+        <a href="../project.json">Project JSON</a>
+        <a href="../final-qc.md">Final QC</a>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

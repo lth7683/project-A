@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>아침 손저림 손목터널증후군 쇼츠</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      font-family: "Malgun Gothic", "Segoe UI", sans-serif;
+      background: #101415;
+      color: #eef4f2;
+    }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      padding: 24px;
+      background: #101415;
+    }
+    main {
+      width: min(100%, 1180px);
+      display: grid;
+      grid-template-columns: minmax(280px, 420px) 1fr;
+      gap: 28px;
+      align-items: center;
+    }
+    video {
+      width: 100%;
+      aspect-ratio: 9 / 16;
+      background: #050707;
+      border: 1px solid #293332;
+    }
+    h1 {
+      margin: 0 0 12px;
+      font-size: clamp(28px, 4vw, 48px);
+      line-height: 1.12;
+      letter-spacing: 0;
+    }
+    p {
+      margin: 0 0 18px;
+      color: #b9c7c3;
+      line-height: 1.65;
+      font-size: 16px;
+    }
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    a {
+      color: #101415;
+      background: #9ce0cf;
+      padding: 10px 14px;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: 700;
+    }
+    .note {
+      margin-top: 18px;
+      font-size: 14px;
+      color: #8fa39d;
+    }
+    @media (max-width: 780px) {
+      body {
+        padding: 14px;
+      }
+      main {
+        grid-template-columns: 1fr;
+      }
+      section {
+        order: -1;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <video controls playsinline src="../renders/final.mp4"></video>
+    <section>
+      <h1>아침 손저림, 손목터널 신호</h1>
+      <p>60초 한국어 건강 쇼츠입니다. 이미지젠 기반 15컷, 장면별 ElevenLabs 음성 싱크, 더 큰 중앙 자막으로 렌더했습니다.</p>
+      <nav>
+        <a href="../renders/final.mp4">MP4 열기</a>
+        <a href="../script.md">대본</a>
+        <a href="../sources.md">근거 자료</a>
+        <a href="../scenes.json">장면 JSON</a>
+      </nav>
+      <p class="note">장면별 음성을 실제 길이로 측정한 뒤 60초에 맞춰 자막과 이미지를 동기화했습니다.</p>
+    </section>
+  </main>
+</body>
+</html>
